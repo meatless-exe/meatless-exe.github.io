@@ -1,6 +1,6 @@
-title: "three rune blog"
+title: "three rune blog" # runic vaporware # three hyper runes
 author: "percy"
-description: "a rpg blog with 80s style and contemporary sensibilities" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+description: "a rpg blog" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
@@ -18,8 +18,8 @@ description: "a rpg blog with 80s style and contemporary sensibilities" # This w
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-#theme: "minima"
-remote_theme: pages-themes/minimal@v0.2.0
+theme: "minima"
+#remote_theme: pages-themes/minimal@v0.2.0
 
 rss: rss
 
