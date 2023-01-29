@@ -18,8 +18,8 @@ description: "a rpg blog" # This will show up in places like twitter, linkedin, 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: "minima"
-#remote_theme: pages-themes/minimal@v0.2.0
+#theme: "minima"
+remote_theme: pages-themes/minimal@v0.2.0
 
 rss: rss
 
