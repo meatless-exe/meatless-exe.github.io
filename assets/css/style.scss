@@ -30,6 +30,11 @@ body {
 		color: var(--base);
 		background: var(--highlight);
 
+		border: 6px double white;
+
+		font-family: vcr;
+		font-weight: normal;
+
 		a {
       text-decoration: none;
 			color: deeppink;
