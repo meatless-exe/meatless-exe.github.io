@@ -8,8 +8,8 @@ body {
 
 @font-face {
   font-family: "vcr";
-  src: local("VCR.ttf") format ("truetype"),
-  local("VCR.woff") format ("woff");
+  src: url("./VCR.ttf") format ("truetype"),
+  url("./VCR.woff") format ("woff");
 }
 
 .home {
