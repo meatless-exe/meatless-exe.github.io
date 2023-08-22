@@ -51,8 +51,12 @@ body {
 	}
 }
 
-.index {
-  .post {
+.post-list {
+  ul {
+    list-style-type: none;
+  }
+
+  li.post {
     .post-info {
 
     }
