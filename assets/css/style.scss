@@ -56,30 +56,28 @@ body {
   .header-text {
 
 	}
-  .scanlines {
-    // scanline backgrounds
-    overflow: hidden;
-    mix-blend-mode: difference;
-    z-index: -1 !important;
-  }
-  .scanlines::before {
-    content: "";
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    top: 0;
-    left: 0;
-  
+
+  // scanline background code
+  overflow: hidden;
+  mix-blend-mode: difference;
+  z-index: -1 !important;
+}
+.container-lg::before {
+  // other part for scan-lines to work right
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
     background: repeating-linear-gradient(
-      to bottom,
-      transparent 0%,
-      rgba(255, 255, 255, 0.05) .5%,
-      transparent 1%
-    );
-  
+    to bottom,
+    transparent 0%,
+    rgba(255, 255, 255, 0.05) .5%,
+    transparent 1%
+  );
     animation: fudge 7s ease-in-out alternate infinite;
-    z-index: -1 !important;
-  }
+  z-index: -1 !important;
 }
 
 // for post titles
@@ -87,6 +85,7 @@ a:hover {
   background: var(--text-color);
 }
 
+// post list on home page
 .post-list {
   list-style-type: none;
 
