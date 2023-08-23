@@ -47,6 +47,9 @@ body {
 		a {
       text-decoration: none;
 			color: var(--text-color);
+      :hover {
+        color: var(--highlight);
+      }
 		}
 	}
 
@@ -78,11 +81,6 @@ body {
   );
     animation: fudge 7s ease-in-out alternate infinite;
   z-index: -1 !important;
-}
-
-// for post titles
-a:hover {
-  background: var(--text-color);
 }
 
 // post list on home page
