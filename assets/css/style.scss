@@ -12,6 +12,10 @@ body {
   url("VCR.woff") format("woff");
 }
 
+:root {
+  --text-color: #ff1493; // deeppink
+}
+
 .home {
 	
 }
@@ -26,27 +30,27 @@ body {
 	opacity: .8;
 
 	h1 {
-		padding: .64rem;
+		// padding: .64rem;
+    margin: 10px 0;
 
-		font-family: "vcr", Arial, Helvetica, sans-serif;
 		text-transform: uppercase;
-		font-size: 2.44rem;
-		line-height: 1.4;
-    letter-spacing: 5px;
-
     text-align: center;
+
+    font-family: "vcr", Arial, Helvetica, sans-serif;
+		font-size: 4.5rem;
+    font-weight: normal;
+
+		line-height: 1.5;
+    letter-spacing: 10px;
 
 		color: var(--base);
 		background: var(--highlight);
 
 		border: 6px double white;
 
-		font-family: vcr;
-		font-weight: normal;
-
 		a {
       text-decoration: none;
-			color: #ff1493;
+			color: var(--text-color);
 		}
 	}
 
@@ -60,7 +64,7 @@ body {
 
 // for post titles
 a:hover {
-  background: #ff1493;
+  background: var(--text-color);
 }
 
 .post-list {
@@ -76,10 +80,11 @@ a:hover {
       margin-bottom: 4px;
 
       a.post-link {
+        text-decoration: none;
         background: #222;
         display: inline-block;
         padding: 5px 10px 0 10px;
-        color: rgba(255,255,255,1);
+        color: var(--text-color);
         border-radius: 8px 8px 8px 0;
       }
     }
