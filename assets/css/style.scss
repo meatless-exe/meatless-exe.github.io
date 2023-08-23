@@ -132,6 +132,27 @@ body {
   }
 }
 
+// post on post page
+.post {
+  .post-header {
+    .post-title {
+      margin: 10px 0;
+
+      text-transform: uppercase;
+      text-align: left;
+
+      font-family: "vcr", Arial, Helvetica, sans-serif;
+      font-size: 4.5rem;
+      font-weight: normal;
+
+      line-height: 1.5;
+      letter-spacing: 5px;
+      
+      border: none;
+    }
+  }
+}
+
 @keyframes fudge {
   from {
     transform: translate(0px, 0px);
