@@ -16,8 +16,29 @@ body {
   --text-color: #ff1493; // deeppink
 }
 
-.home {
-	
+.home.scanlines {
+	// scanline backgrounds
+  overflow: hidden;
+  mix-blend-mode: difference;
+  z-index: 0 !important;
+
+  .scanlines::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+
+    background: repeating-linear-gradient(
+      to bottom,
+      transparent 0%,
+      rgba(255, 255, 255, 0.05) .5%,
+      transparent 1%
+    );
+
+    animation: fudge 7s ease-in-out alternate infinite;
+  }
 }
 
 .container-lg {
@@ -110,30 +131,6 @@ a:hover {
   code {
     padding: 4px 12 px 4px 12px;
   }
-}
-
-// scanline backgrounds
-.scanlines {
-  overflow: hidden;
-  mix-blend-mode: difference;
-}
-
-.scanlines::before {
-  content: "";
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-
-  background: repeating-linear-gradient(
-    to bottom,
-    transparent 0%,
-    rgba(255, 255, 255, 0.05) .5%,
-    transparent 1%
-  );
-
-  animation: fudge 7s ease-in-out alternate infinite;
 }
 
 @keyframes fudge {
