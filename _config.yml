@@ -32,7 +32,6 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme # needed for remote theme to work
 
 titles_from_headings:
   strip_title: true
