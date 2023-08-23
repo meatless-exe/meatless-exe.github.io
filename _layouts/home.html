@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="home">
+<div class="home scanlines">
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
@@ -26,7 +26,7 @@ layout: default
       {%- for post in posts -%}
       <li class="post">
         <h2 class="post-title">
-          <a class="post-link" href="{{ post.url | relative_url }}">
+          <a class="post-link" href="{{ post.url }}">
             {{ post.title | escape }}
           </a>
         </h2>
