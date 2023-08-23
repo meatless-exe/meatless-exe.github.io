@@ -29,24 +29,24 @@ body {
 		// padding: .64rem;
     margin: 10px 0;
 
-    color: var(--base);
-    background: var(--highlight);
+		text-transform: uppercase;
+    text-align: center;
+
+    font-family: "vcr", Arial, Helvetica, sans-serif;
+		font-size: 4.5rem;
+    font-weight: normal;
+
+		line-height: 1.5;
+    letter-spacing: 10px;
+
+		color: var(--base);
+		background: var(--highlight);
+
+		border: 6px double white;
 
 		a {
       text-decoration: none;
 			color: var(--text-color);
-
-      text-transform: uppercase;
-      text-align: center;
-
-      font-family: "vcr", Arial, Helvetica, sans-serif;
-      font-size: 4.5rem;
-      font-weight: normal;
-
-      line-height: 1.5;
-      letter-spacing: 10px;
-
-      border: 6px double white;
       :hover {
         color: var(--highlight);
       }
