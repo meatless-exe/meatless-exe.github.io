@@ -24,6 +24,19 @@ body {
   background: linear-gradient(90deg, var(--bg-color) 62px, transparent 1%) center, linear-gradient(var(--bg-color) 62px, transparent 1%) center, var(--dot-color);
   background-size: 64px 64px;
 
+  margin-left: auto;
+	margin-right: auto;
+	width: 950px;
+	padding: 10px 5px;
+
+	color: #8c8673;
+	opacity: .8;
+
+  /* scanline background code */
+  overflow: hidden;
+  mix-blend-mode: difference;
+  z-index: -1 !important;
+
   #header {
     h1 {
       /* padding: .64rem; */
@@ -55,51 +68,7 @@ body {
   }
 }
 
-
-
-.container-lg {
-	margin-left: auto;
-	margin-right: auto;
-	width: 950px;
-	padding: 10px 5px;
-
-	color: #8c8673;
-	opacity: .8;
-
-	h1 {
-		/* padding: .64rem; */
-    margin: 10px 0;
-
-		text-transform: uppercase;
-    text-align: center;
-
-    font-family: "vcr", Arial, Helvetica, sans-serif;
-		font-size: 4.5rem;
-    font-weight: normal;
-
-		line-height: 1.5;
-    letter-spacing: 10px;
-
-		color: var(--base);
-		background: var(--highlight);
-
-		border: 6px double white;
-
-		a {
-      text-decoration: none;
-			color: var(--text-color);
-      :hover {
-        color: var(--highlight);
-      }
-		}
-	}
-
-  /* scanline background code */
-  overflow: hidden;
-  mix-blend-mode: difference;
-  z-index: -1 !important;
-}
-.container-lg::before {
+body::before {
   /* other part for scan-lines to work right */
   content: "";
   position: absolute;
@@ -113,7 +82,7 @@ body {
     rgba(255, 255, 255, 0.05) .5%,
     transparent 1%
   );
-    animation: fudge 7s ease-in-out alternate infinite;
+  animation: fudge 7s ease-in-out alternate infinite;
   z-index: -1 !important;
 }
 
