@@ -1,9 +1,7 @@
-<!DOCTYPE HTML>
-<html>
 <p class="horus--subtle">if dreaming was a drug, i'd be high forever</p>
 
-<head>
-	{% include head.html %}
-</head>
-
-oasis 95 is a recreational program w/ light ttrpg elements
+[//]: <> Made using: 
+[//]: <> https://dylanbeattie.net/2019/08/14/migrating-from-blogger-to-github-pages.html
+[//]: <> 
+[//]: <> 
+[//]: <> 
