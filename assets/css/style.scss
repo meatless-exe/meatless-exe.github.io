@@ -19,7 +19,7 @@ body {
 	color: #8c8673;
   
 	background:
-		linear-gradient(90deg, var(--bg-color) (var($dot-space) - var($dot-size)), transparent 1%) center,
+		linear-gradient(90deg, var(--bg-color) (var($dot-space) - var(--dot-size)), transparent 1%) center,
 		linear-gradient(var(--bg-color) (var(--dot-space) - var(--dot-size)), transparent 1%) center,
 		var(--dot-color);
 	background-size: var(--dot-space) var(--dot-space);
