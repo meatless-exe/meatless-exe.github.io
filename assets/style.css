@@ -73,12 +73,14 @@ body {
       ul {
         padding-left: 5px;
         list-style: none;
+        display: inline-block;
 
         li {
           white-space: nowrap;
           margin-right: 10px;
           color: #111;
           display: inline-block;
+          float: none
         }
 
         .current::before.current::after {
