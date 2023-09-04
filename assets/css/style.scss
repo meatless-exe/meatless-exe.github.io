@@ -3,8 +3,8 @@
 
 :root {
   // Colors
-  --bg-color: #7577FA;
-  --dot-color: #9192FB;
+  --bg-color: #000; // #7577FA
+  --dot-color: #555; // #9192FB
   --text-color: #ff1493; // deeppink
 
   // Dimensions
@@ -15,7 +15,7 @@
 
 
 body { 
-	background: #000;
+	// background: #000;
 	color: #8c8673;
   
   background: -webkit-linear-gradient(left, var(--bg-color) 20px, transparent 1%) center, -webkit-linear-gradient(var(--bg-color) 20px, transparent 1%) center, var(--dot-color);
