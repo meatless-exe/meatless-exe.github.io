@@ -18,8 +18,8 @@ body {
 	background: #000;
 	color: #8c8673;
   
-  background: -webkit-linear-gradient(left, #7577FA 20px, transparent 1%) center, -webkit-linear-gradient(#7577FA 20px, transparent 1%) center, #9192FB;
-  background: linear-gradient(90deg, #7577FA 20px, transparent 1%) center, linear-gradient(#7577FA 20px, transparent 1%) center, #9192FB;
+  background: -webkit-linear-gradient(left, var(--bg-color) 20px, transparent 1%) center, -webkit-linear-gradient(var(--bg-color) 20px, transparent 1%) center, var(--dot-color);
+  background: linear-gradient(90deg, var(--bg-color) 20px, transparent 1%) center, linear-gradient(var(--bg-color) 20px, transparent 1%) center, var(--dot-color);
   background-size: 22px 22px;
 }
 
