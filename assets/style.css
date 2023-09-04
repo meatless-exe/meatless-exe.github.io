@@ -1,13 +1,10 @@
----
----
-
 :root {
-  // Colors
-  --bg-color: #000; // #7577FA
-  --dot-color: #222; // #9192FB
-  --text-color: #ff1493; // deeppink
+  /* Colors */
+  --bg-color: #000;
+  --dot-color: #222;
+  --text-color: #ff1493;
 
-  // Dimensions
+  /* Dimensions */
   --dot-size: 2px;
   --dot-space: 22px;
 }
@@ -20,7 +17,7 @@
 
 
 body { 
-	// background: #000;
+	background: #000;
 	color: #8c8673;
   
   background: -webkit-linear-gradient(left, var(--bg-color) 62px, transparent 1%) center, -webkit-linear-gradient(var(--bg-color) 62px, transparent 1%) center, var(--dot-color);
@@ -29,7 +26,7 @@ body {
 
   #header {
     h1 {
-      // padding: .64rem;
+      /* padding: .64rem; */
       margin: 10px 0;
   
       text-transform: uppercase;
@@ -70,7 +67,7 @@ body {
 	opacity: .8;
 
 	h1 {
-		// padding: .64rem;
+		/* padding: .64rem; */
     margin: 10px 0;
 
 		text-transform: uppercase;
@@ -97,13 +94,13 @@ body {
 		}
 	}
 
-  // scanline background code
+  /* scanline background code */
   overflow: hidden;
   mix-blend-mode: difference;
   z-index: -1 !important;
 }
 .container-lg::before {
-  // other part for scan-lines to work right
+  /* other part for scan-lines to work right */
   content: "";
   position: absolute;
   width: 100%;
@@ -120,7 +117,7 @@ body {
   z-index: -1 !important;
 }
 
-// home page
+/* home page */
 .post-list {
   .anchorjs-link {
     display: none;
@@ -169,7 +166,7 @@ body {
   }
 }
 
-// post page
+/* post page */
 .post {
   .post-header {
     .post-title {
@@ -199,7 +196,7 @@ body {
   }
 }
 
-// horus glitch effect
+/* horus glitch effect */
 .horus--subtle {
   animation: distort-subtle 5s infinite;
 }
@@ -221,7 +218,7 @@ code.horus {
 }
 @-webkit-keyframes distort {
   0% {
-    text-shadow:2px 1px #f0f,-2px -3px #0ff; //#FF1493 / #93FF14 / #1493FF
+    text-shadow:2px 1px #f0f,-2px -3px #0ff; /* #FF1493 / #93FF14 / #1493FF */
     transform:translate(-1px,1px) translate3D(-30px,0,0) rotate(-.1deg);
     cursor:crosshair
   }
@@ -350,7 +347,7 @@ code.horus {
   }
 }
 
-// offset nav
+/* offset nav */
 /*
 nav1 {
   display: block;
@@ -373,7 +370,7 @@ nav1 {
 }
 */
 
-// alt h11
+/* alt h11 */
 /*
 display: block;
 border-right: 10px solid #d45558;
@@ -387,164 +384,7 @@ padding: 6px;
 color: #fff;
 */
 
-// background idea 1
-/*
-https://codepen.io/alexitaylor/pen/RgxJwg
-<div class="page-bg"></div>
-
-<div class="animation-wrapper">
-  <div class="particle particle-1"></div>
-  <div class="particle particle-2"></div>
-  <div class="particle particle-3"></div>
-  <div class="particle particle-4"></div>
-</div>
-
-<div class="page-wrapper"> 
-  <h4>CSS Particles</h4>
-</div>
-
-
-
-// Config 
-$color-bg: #1e1e1e;
-$color-particle: #fff;
-$spacing: 2560px;
-$time-1: 60s;
-$time-2: 120s;
-$time-3: 180s;
-$time-4: 200s;
-
-// mixins 
-@function particles($max) {
-  $val: 0px 0px $color-particle;
-  @for $i from 1 through $max {
-    $val: #{$val}, random($spacing)+px random($spacing)+px $color-particle;
-  }
-  @return $val;
-}
-
-@mixin particles($max) {
-  box-shadow: particles($max);
-  border-radius: 50%;
-}
-
-// Styles 
-html, body {
-  height: 100%;
-}
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 4rem;
-  overflow: hidden;
-}
-
-.page-bg, .animation-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.page-bg {
-  background: $color-bg;
-  background-blend-mode: screen;
-  background-size: cover;
-  filter: grayscale(100%);
-  z-index: -1;
-}
-
-.particle, .particle:after {
-  background: transparent;
-}
-
-.particle:after {
-  position: absolute;
-  content: "";
-  top: $spacing;
-}
-
-.particle-1 {
-  animation: animParticle $time-1 linear infinite;
-  @include particles(1000);
-  height: 2px;
-  width: 2px;
-}
-
-.particle-1:after {
-  @include particles(900);
-  height: 2px;
-  width: 2px;
-}
-
-.particle-2 {
-  animation: animParticle $time-2 linear infinite;
-  @include particles(800);
-  height: 2px;
-  width: 2px;
-}
-
-.particle-2:after {
-  @include particles(500);
-  height: 3px;
-  width: 3px;
-}
-
-.particle-3:after {
-  @include particles(1100);
-  height: 3px;
-  width: 3px;
-  border-radius: 50%;
-}
-
-.particle-4 {
-  animation: animParticle $time-4 linear infinite;
-  @include particles(1200);
-  height: 1px;
-  width: 1px;
-}
-
-.particle-4:after {
-  @include particles(700);
-  height: 1px;
-  width: 1px;
-}
-
-@keyframes animParticle {
-  from {
-    transform: translateY(0px);
-  }
-  to {
-    transform: translateY($spacing * -1);
-  }
-}
-
-.page-wrapper {
-  text-align: center;
-  color: #fff;
-  z-index: 2;
-}
-
-h4 {
-  color: #fff;
-  font-family: Monoton;
-  -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
-  -moz-animation: neon1 1.5s ease-in-out infinite alternate;
-  animation: neon1 1.5s ease-in-out infinite alternate;
-}
-
-h4:hover {
-  color: #FF1177;
-  -webkit-animation: none;
-  -moz-animation: none;
-  animation: none;
-}
-*/
-
-//background idea 2
+/* background idea 2 */
 /*
 https://codepen.io/Lov/pen/pbJEZo
 
