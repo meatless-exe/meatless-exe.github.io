@@ -2,15 +2,14 @@
 ---
 
 :root {
-  --text-color: #ff1493; // deeppink
   // Colors
-  $bg-color: #7577FA;
-  $dot-color: #9192FB;
-  $text-color: #ff1493; // deeppink
+  --bg-color: #7577FA;
+  --dot-color: #9192FB;
+  --text-color: #ff1493; // deeppink
 
   // Dimensions
-  $dot-size: 2px;
-  $dot-space: 22px;
+  --dot-size: 2px;
+  --dot-space: 22px;
 }
 
 
@@ -20,10 +19,10 @@ body {
 	color: #8c8673;
   
 	background:
-		linear-gradient(90deg, $bg-color ($dot-space - $dot-size), transparent 1%) center,
-		linear-gradient($bg-color ($dot-space - $dot-size), transparent 1%) center,
-		$dot-color;
-	background-size: $dot-space $dot-space;
+		linear-gradient(90deg, var(--bg-color) (var($dot-space) - var($dot-size)), transparent 1%) center,
+		linear-gradient(var(--bg-color) (var(--dot-space) - var(--dot-size)), transparent 1%) center,
+		var(--dot-color);
+	background-size: var(--dot-space) var(--dot-space);
 }
 
 @font-face {
