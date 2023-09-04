@@ -12,6 +12,11 @@
   --dot-space: 22px;
 }
 
+@font-face {
+  font-family: "vcr";
+  src: url("VCR.ttf") format("truetype"),
+  url("VCR.woff") format("woff");
+}
 
 
 body { 
@@ -21,12 +26,36 @@ body {
   background: -webkit-linear-gradient(left, var(--bg-color) 62px, transparent 1%) center, -webkit-linear-gradient(var(--bg-color) 62px, transparent 1%) center, var(--dot-color);
   background: linear-gradient(90deg, var(--bg-color) 62px, transparent 1%) center, linear-gradient(var(--bg-color) 62px, transparent 1%) center, var(--dot-color);
   background-size: 64px 64px;
-}
 
-@font-face {
-  font-family: "vcr";
-  src: url("VCR.ttf") format("truetype"),
-  url("VCR.woff") format("woff");
+  #header {
+    #logo {
+      // padding: .64rem;
+      margin: 10px 0;
+  
+      text-transform: uppercase;
+      text-align: center;
+  
+      font-family: "vcr", Arial, Helvetica, sans-serif;
+      font-size: 4.5rem;
+      font-weight: normal;
+  
+      line-height: 1.5;
+      letter-spacing: 10px;
+  
+      color: var(--base);
+      background: var(--highlight);
+  
+      border: 6px double white;
+  
+      a {
+        text-decoration: none;
+        color: var(--text-color);
+        :hover {
+          color: var(--highlight);
+        }
+      }
+    }
+  }
 }
 
 
@@ -66,13 +95,6 @@ body {
         color: var(--highlight);
       }
 		}
-	}
-
-  .logo {
-
-  }
-  .header-text {
-
 	}
 
   // scanline background code

@@ -5,34 +5,31 @@
 	{% include head.html %}
 </head>
 
-<body class="is-preload">
-	<div id="page-wrapper">
-
-		<!-- Header -->
-		<div id="header">
-			{% include header.html %}
-			<!-- Logo -->
-		</div>
-
-		<!-- Main -->
-		<section class="wrapper style1">
-			<div class="container">
-				<div id="content">
-
-					<!-- Content -->
-
-					{{ content }}
-
-				</div>
-			</div>
-		</section>
-
-		<!-- Footer -->
-		<div id="footer">
-			{% include footer.html %}
-		</div>
-
+<body>
+	<!-- Header -->
+	<div id="header">
+		{% include header.html %}
+		<!-- Logo -->
 	</div>
+
+	<!-- Main -->
+	<section class="main">
+		<div class="container">
+			<div id="content">
+
+				<!-- Content -->
+
+				{{ content }}
+
+			</div>
+		</div>
+	</section>
+
+	<!-- Footer -->
+	<div id="footer">
+		{% include footer.html %}
+	</div>
+
 	{% include scripts.html %}
 </body>
 
