@@ -93,7 +93,7 @@ body {
         }
 
         .current {
-          text-decoration: underline overline var(--dot-color);
+          text-decoration: underline overline var(--border-color);
         }
       }
     }
