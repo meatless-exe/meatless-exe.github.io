@@ -2,6 +2,6 @@
 
 [//]: <> Made using: 
 [//]: <> https://dylanbeattie.net/2019/08/14/migrating-from-blogger-to-github-pages.html
-[//]: <> 
+[//]: <> Edmundo Santos (http://codepen.io/edmundojr/pen/xOYJGw)
 [//]: <> 
 [//]: <> 
