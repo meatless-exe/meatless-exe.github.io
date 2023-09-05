@@ -3,6 +3,7 @@
   --bg-color: #000;
   --dot-color: #222;
   --text-color: #ff1493;
+  --border-color: #fff;
 
   /* Dimensions */
   --dot-size: 2px;
@@ -69,7 +70,7 @@ body {
     /* navbar */
     #nav {
       border-style: none solid;
-      border-color: #fff;
+      border-color: var(--border-color);
 
       ul {
         padding: .5em;
@@ -79,7 +80,7 @@ body {
 
         li {
           white-space: nowrap;
-          color: #111;
+          color: #222;
           display: inline-block;
           float: none;
           margin-right: 2em;
@@ -87,7 +88,7 @@ body {
           a {
             text-transform: capitalize;
             text-decoration: none;
-            color: var(--dot-color);
+            color: var(--border-color);
           }
         }
 
