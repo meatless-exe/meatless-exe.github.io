@@ -5,5 +5,8 @@
   text: about
   href: /about
 - crypt:
+  text: archive
+  href: /archive
+- crypt:
   text: crypt
   href: /crypt
