@@ -93,14 +93,7 @@ body {
         }
 
         .current {
-          text-decoration: none;
-
-          a::before {
-            content: ">";
-          }
-          a::after {
-            content: "<";
-          }
+          text-decoration: underline var(--border-color);
 
           a {
             color: var(--text-color);
