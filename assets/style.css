@@ -94,6 +94,14 @@ body {
 
         .current {
           text-decoration: none;
+
+          a::before {
+            content: ">";
+          }
+          a::after {
+            content: "<";
+          }
+
           a {
             color: var(--text-color);
           }
