@@ -93,7 +93,7 @@ body {
         }
 
         .current {
-          text-decoration: underline var(--border-color);
+          text-decoration: underline var(--text-color);
 
           a {
             color: var(--text-color);
