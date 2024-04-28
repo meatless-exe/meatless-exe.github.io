@@ -103,7 +103,7 @@ body {
     }
   }
   #content {
-
+    overflow: auto;
   }
   #footer {
 
@@ -179,6 +179,7 @@ body::before {
 
 /* post page */
 .post {
+  overflow: auto;
   .post-header {
     .post-title {
       margin: 10px 0;
