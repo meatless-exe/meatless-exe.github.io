@@ -38,13 +38,6 @@ body {
   mix-blend-mode: difference;
   z-index: -1 !important;
 
-  background: repeating-linear-gradient(
-    to bottom,
-    transparent 0%,
-    rgba(255, 255, 255, 0.05) .5%,
-    transparent 1%
-  );
-
   #header {
     /* Logo */
     h1 {
@@ -124,7 +117,12 @@ body::before {
   height: 100%;
   top: 0;
   left: 0;
-  
+  background: repeating-linear-gradient(
+    to bottom,
+    transparent 0%,
+    rgba(255, 255, 255, 0.05) .5%,
+    transparent 1%
+  );
   animation: fudge 7s ease-in-out alternate infinite;
   z-index: -1 !important;
 }
