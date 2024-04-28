@@ -2,9 +2,8 @@
 layout: post
 title: characters
 tags: crypt, rules, elfgame
----
 
-# CHARACTERS
+---
 
 ## Creation
 What’s your character’s name? Pronouns?
