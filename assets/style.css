@@ -34,7 +34,7 @@ body {
 	opacity: .8;
 
   /* scanline background code */
-  overflow: hidden;
+  overflow: scroll;
   mix-blend-mode: difference;
   z-index: -1 !important;
 
@@ -103,7 +103,6 @@ body {
     }
   }
   #content {
-    overflow: auto;
   }
   #footer {
 
@@ -179,7 +178,6 @@ body::before {
 
 /* post page */
 .post {
-  overflow: scroll;
   .post-header {
     .post-title {
       margin: 10px 0;
