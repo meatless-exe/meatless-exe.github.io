@@ -58,7 +58,7 @@ When you collect XP, you may choose to give it to your followers or pets instead
 When in town or other safe space, over the course of a week you can study to learn new skills instead of any other action. You'll need to find someone who can teach you, or a way to train your skill like a library. 
 
 - Basic Skill - 10 Weeks of training, 20 C in materials and instruction
-- Expert Skill - 20 Weeks of training, 40 C in materials and instruction
-- Advanced Skill - 30 Weeks of training, 60 C in materials and instruction
+- Expert Skill - 20 Weeks of training, 60 C in materials and instruction
+- Advanced Skill - 30 Weeks of training, 120 C in materials and instruction
 
-Payment may be required up front. If studying part-time, double Weeks required for training
+Payment may be required up front. If studying part-time or without a teacher, double Weeks required for training
