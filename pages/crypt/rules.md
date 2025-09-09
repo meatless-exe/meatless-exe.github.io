@@ -18,9 +18,7 @@ FOR LUDOMECHANICAL MACHINATIONS WITH FRIENDS AND STRANGERS
 
 # SYSTEM
 ## Stats
-Roll 1d10 aiming to get your stat or lower. This is the Target Number
-
-Rolls of 10 always fail. Rolls of 1 always succeed. Gain a Stress to reroll a dice, using the new number
+Roll 1d10 aiming to get your stat or lower. Rolls of 10 always fail. Rolls of 1 always succeed. Gain a Stress to reroll a dice, using the new number
 
 In combat _Crits Kill_. A headshot. Lucky shot through the window of a helicopter. Hit a grenade on their belt. Cuts both ways. Combat is lethal.
 
@@ -28,27 +26,27 @@ If you have time, the tools, and the skill, you succeed, no roll required. If yo
 
 The Ref may ask for multiple rolls to accomplish something. This is in lieu of partial success, by breaking up a single roll into multiple rolls to determine what parts are failed (if any).
 
-When it become important to dictate the exact flow of events, play shifts to a tit-for-tat style. One or more players describe what they're doing and the Ref adjucates, then the Ref does something. Starting with whoever initiated the sequence, going back and forth until the event is resolved in some way. The same Squad or Individual can't act twice in this way unless they're the last one left
+When it become important to dictate the exact flow of events, play shifts to a tit-for-tat style. One or more players describe what they're doing and the Ref adjucates, then the Ref does something. Starting with whoever initiated the sequence, going back and forth until the event is resolved in some way. The same Squad or Individual can't act twice in this way.
 
 You have 3 **Stats**:
 
 SPINE
-> hit hard, move heavy things, take drugs, resist physical effects
-> using Big Guns or Melee Weapons
-> number of inventory slots
+- hit hard, move heavy things, take drugs, resist physical effects
+- using Big Guns or Melee Weapons
+- number of Inventory slots
 
 BRAIN
-> know things, operate complex machinery, think on your feet, resist mental effects
-> using Energy or other Exotic Weapons
-> number of Skills you can learn
+- know things, operate complex machinery, think on your feet, resist mental effects
+- using Energy or other Exotic Weapons
+- number of Skills you can learn
 
 HEART
-> move quickly, be coordinated, notice things, resist social effects
-> using Conventional Firearms or Throwing Weapons
-> Number of LINKS you can have
+- move quickly, be coordinated, notice things, resist social effects
+- using Conventional Firearms or Throwing Weapons
+- Number of Links you can have
 
 ## Skills
-You have **Skills**. Skills are measured from 1 to 10 like stats. When a skill is applicable, you can choose whether or not to use your skill instead of your stat for the test. Skills take time to train and start at the relevant stat -1. So a character earning a Firearms Certification with a BRAIN of 5 will earn Firearms 4. Stat training costs Experience and a downtime action. Can't learn a skill if 
+You have **Skills**. Skills are measured from 1 to 10 like stats. Skills come in two types: Professions and Certifications. When a skill is applicable, you can use your skill instead of your stat for the test. Skills take time to train and start at the relevant stat -1. So a character training to become a Soldier with a SPINE of 5 will earn Soldier 4. Skill training costs Experience and a Downtime action.
 
 Pick up Certifications for specific areas related to a Profession (ie you have the Profession Soldier, but want to pick up the Certification Sharpshooting)
 
@@ -62,7 +60,7 @@ Pick up Certifications for specific areas related to a Profession (ie you have t
 ### HITS
 Your STAMINA is measured in Hits. You have 3 Hits. Hits can be permanently lowered by sustaining particularily gruesome injuries.
 
-Injuries and damage are not revealed until the end of combat (obviously a body hitting the floor is a bit of a reveal, but don't know how bad it is until you check the body)
+Maybe cut this? _Injuries and damage are not revealed until the end of combat (obviously a body hitting the floor is a bit of a reveal, but don't know how bad it is until you check the body)_
 
 If you are knocked to 0 Hits, roll on the Bleedout Table. Roll this in secret when you go down, hiding it under a cup until someone checks your body.
 
@@ -73,10 +71,19 @@ Standard Military armor has AV 1, ie a Padded Gambeson or Bulletproof Vest. Some
 
 Heavily armored military vehicles (tanks, helicopters, etc.) have Mega Armor Value (MAV) which requires MDMG to be bypassed
 
-Most armor will mention what kind of attacks it protects against (guns, knives, blunt force)
+Some armor will mention what kind of attacks it protects against (guns, knives, blunt force)
 
-##### Cover
 Cover can also grant AV and protects againt Crits. Light Cover grants 2 (low walls, dense foliage, furniture), Heavy Cover grants 4 (concrete pillars, tall stone walls, cars and vehicles). Crits instead bypass Armor rather than killing while in cover.
+
+|                      | Armor Value (AV)    | Fantasy                 | Modern           |
+| -------------------- | ------------------- | ----------------------- | ---------------- |
+| Body Armor           | 1                   | Gambeson, Padded Jacket | Kevlar Vest      |
+| Military-Grade Armor | 2                   | Chainmail               | Plate Carrier    |
+| Heavy Armor          | 2, ignore crits     | Full Plate              | Juggernaut Suit  |
+| Light Cover          | +2, crits bypass AV | Wooden Barricade        | Dense Foliage    |
+| Heavy Cover          | +4, crits bypass AV | Stone Walls             | Concrete Pillars |
+| Tank                 | 5 (or 1 MegaAV)     | Dragon                  | Tank             |
+
 
 #### Healing
 Heal via medical treatment during downtime. Restore Hits to Maximum.
@@ -84,6 +91,7 @@ Heal via medical treatment during downtime. Restore Hits to Maximum.
 Store basic healing items (bandages/MREs) (pierogi/dumplings/gyoza?) (pudding pie (Babeczki)/apple pie/crepes/waffles/baklava) in your inventory. take 30 Minutes and heal 1 DMG. Spend Stamina to increase the amount healed
 
 Recover more Hits quickly by drinking a potion or using a Stimpak. When you spend a week resting, make a BODY save. On a success restore Hits to max, remove a condition, or remove all stress?
+
 
 ### Bleedout
 
@@ -93,6 +101,7 @@ Recover more Hits quickly by drinking a potion or using a Stimpak. When you spen
 | 4-6  | Unconscious and Gain an INJURY; and Medical Leave: miss the next mission; and -1 Max Hits |
 | 2-3  | Unconscious and Gain an INJURY; and Medical Leave: miss the next mission |
 | 1    | Unconscious and Gain an INJURY to a relevant stat (or your best). |
+
 
 #### Shot while Unarmored
 
@@ -163,7 +172,7 @@ Everything Useful takes 1 Slot: glowsticks, healing items; Some have 3 Uses, mar
 
 Ammunition is Stored as MAGAZINES, takes up a slot, weapons need to reload on a 8-10. Magazines come in different calibers: Pistol, Rifle, Shotgun, Energy Cells, and Heavy. Grenades and Missiles are single use
 
-You have Greater of SPINE + 2 slots of inventory
+You have 5 slots of inventory
 
 ## CHARACTER
 What’s your character’s name? Pronouns?
@@ -209,6 +218,8 @@ LMG - 2 DMG, 2 slots, rifle ammo, [+] to reload (reroll if result is 8-10 for am
 Medical Kit - Restore 1 HP while resting. 3 Uses
 Stimpak - Experimental. Restore 1 Hits at any time. Take 1 Stress
 Trauma Kit - Stabilize and revive someone after they go down. Gotta still be alive
+
+Fulton Kit
 
 ### Ref Stuff:
 #### Mission Information & Redaction
@@ -445,3 +456,22 @@ Convert to lifestyle expenses:
 	    - escape room, trampoline park, boat trip, speed dating, gambling, arcade - try again on HEART saves
 ## Bases
 After the first MISSION, Agents gain options to customize and expand their base as part of the 
+
+Upgrades
+- Medical Bay - Anyone with 0 HP can be brought here to recover rather than dying (if you get them there first)
+- Translator - understand enemy communications, a walky-talky away. Upgrade with codebreaker (decipher codes in the field)
+- Logistics - +1 Rendevous singal per mission
+- Supply team - Call in a resupply once per mission (1 basic item per agent)
+- Rooms that give [+] on a single roll (Gym for SPINE, Shooting range for HEART?, Library for BRAIN)
+
+Side Ops
+- Awards 1 or 2 Cargo/RQ (used to build/upgrade base). Done outside of Operations or Missions
+- Basic (1 RQ)
+	- Eliminate a specific LT or a squad
+	- Locate a piece of Intel (briefcase, disk, etc.)
+	- Gather intel on a VIP, observe and report
+- Complicated (2 RQ)
+	- Exfiltrate someone or something important
+	- Eliminate a commander or large group of 5-10 enemies
+	- Hold a zone against waves of enemies
+	- Locate this thing, then take it to 2-3 other locations

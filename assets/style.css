@@ -3,7 +3,8 @@
   --bg-color: #000;
   --dot-color: #222;
   --text-color: #ff1493;
-  --border-color: #fff;
+  --border-color: #f1f1f1;
+  --font-color: #F3F0E6;
 
   /* Dimensions */
   --dot-size: 2px;
@@ -18,8 +19,8 @@
 
 
 body { 
-	background: #000;
-	color: #8c8673;
+	background: var(--bg-color);
+	color: #F3F0E6;
   
   background: -webkit-linear-gradient(left, var(--bg-color) 62px, transparent 1%) center, -webkit-linear-gradient(var(--bg-color) 62px, transparent 1%) center, var(--dot-color);
   background: linear-gradient(90deg, var(--bg-color) 62px, transparent 1%) center, linear-gradient(var(--bg-color) 62px, transparent 1%) center, var(--dot-color);
@@ -30,7 +31,7 @@ body {
 	width: 950px;
 	padding: 10px 5px;
 
-	color: #8c8673;
+	color: #F3F0E6;
 	opacity: .8;
 
   /* scanline background code */
