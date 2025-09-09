@@ -86,6 +86,7 @@ Store basic healing items (bandages/MREs) (pierogi/dumplings/gyoza?) (pudding pi
 Recover more Hits quickly by drinking a potion or using a Stimpak. When you spend a week resting, make a BODY save. On a success restore Hits to max, remove a condition, or remove all stress?
 
 ### Bleedout
+
 | Roll | Result                                                                                                   |
 |------|----------------------------------------------------------------------------------------------------------|
 | 7-10 | You have died. Roll up a new character                                                                   |
@@ -94,6 +95,7 @@ Recover more Hits quickly by drinking a potion or using a Stimpak. When you spen
 | 1    | Unconscious and Gain an INJURY to a relevant stat (or your best). |
 
 #### Shot while Unarmored
+
 | Roll | Location    | Effect        |
 | ---- | ----------- | ------------- |
 | 0    | Head        | Instant death |
