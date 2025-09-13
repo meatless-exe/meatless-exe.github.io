@@ -1,13 +1,9 @@
 ---
 layout: post
-title: crypt rules
+title: rules for crypt
 tags: crypt, rules, elfgame
 ---
 
-# CRYPT 2e
+[DA RULEZ](./crypt/rules.md)
 
 [character creation](./crypt/character.md)
-
-# CRYPT 3e
-
-[DA RULEZ](./crypt/rules.md)

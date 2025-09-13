@@ -1,64 +1,124 @@
 ---
 layout: post
-title: characters
+title: character creation
 tags: crypt, rules, elfgame
 
 ---
-
-## Creation
+## Name
 What’s your character’s name? Pronouns?
 
-Stats (roll or pick)
-1. BODY [+1] / MIND [-1] / SOUL [+0]
-2. BODY [+1] / MIND [+0] / SOUL [-1]
-3. BODY [-1] / MIND [+1] / SOUL [+0]
-4. BODY [-1] / MIND [+0] / SOUL [+1]
-5. BODY [+0] / MIND [+1] / SOUL [-1]
-6. BODY [+0] / MIND [-1] / SOUL [+1]
+## Stats
+Assign points to your stats. You get 9 Points to start. You can assign up to 5 in any stat and must at least assign 1 in each.
+1. **Piss poor** <-- Minimum
+2. Needs Improvement
+3. **Totally Average**
+4. Above Average
+5. Highly skilled <-- Highest characters can get
+6. Masterful
+7. **Peak human** <-- Human limit
+8. Enhanced
+9. Transhuman
+10. Impossible
 
-Optional: Extreme Stats
-1. BODY [+2] / MIND [-1] / SOUL [-1]
-2. BODY [-1] / MIND [+2] / SOUL [-1]
-3. BODY [-1] / MIND [-1] / SOUL [+2]
-4. BODY [-2] / MIND [+1] / SOUL [+1]
-2. BODY [+1] / MIND [-2] / SOUL [+1]
-3. BODY [+1] / MIND [+1] / SOUL [-2]
+Or roll 3 times for a stat line below
+1. 5
+2. 4
+3. 4
+4. 3
+5. 3
+6. 3
+7. 3
+8. 2
+9. 2
+10. 1
 
-Pick a Basic Skill
+## Stress and Vices
+Your Minimum Stress starts at 1. 
 
-| Basic            | Expert               | Advanced        |
-|------------------|----------------------|-----------------|
-| Art              | Mysticism            | Esotericism     |
-| Theology         |                      |                 |
-| Mathmology       | Physics              | Arcane Theory   |
-| Archaeology      | Architecture         |                 |
-| Linguistics      | Rituals              | Dead Languages  |
-| Riding           | Training             | Herding         |
-| Geology          | Mining               | Engineering     |
-| Craftsmanship    | Mechanical Repair    | Siege Weapons   |
-| Animals          | Tracking             | Cryptozoology   |
-|                  | Field Medicine       | Surgery         |
-| Herbology        | Explosives           | Construction    |
-|                  | Wilderness Survival  | Alchemistry     |
-| Martial Training | Archery              | Command         |
-| Athletics        | Hand-to-Hand combat  | Heavy Armor     |
-| Realmwise        | Lockpicking          |                 |
-|                  | Sneaking             | Performance     |
+Come up with a Vice for your character or roll below:
+1. Gambling - You're never one to shy away from risks and you have at least one good luck charm. When healing stress: Spend 1d10-5 Cash on to heal Stress (gain Cash on negatives)
+2. Luxury - You value the finer things in life and are always keeping track of trends. When healing stress: Replace a random item in your Inventory with a version that costs twice as much 
+3. ??? - You frequently have a coffee or energy drink in hand. When healing stress: Take 1 hit as you hit the harder stuff
+4. Stupor - You're a frequent slacker. When healing stress: Stress clearing takes two downtime actions
+5. ??? - You read philosophy and self-help books for experiences outide your own. When healing stress: On a failed Stress check take +1 Stress from a bad trip
 
-You have 8 + BODY in HP
+## Professions:
+Roll twice for a Profession or roll once and come up with a Certification for it. You can have BRAIN+2 max skills. Roll 1d5 and 1d10, value is equal to your value in that stat minus one.
+1. A-Co
+	1. Actor (HEART)
+	2. Athlete (SPINE)
+	3. Botanist (BRAIN)
+	4. Bureaucrat (BRAIN)
+	5. Butcher (SPINE)
+	6. Chef (HEART)
+	7. Chemist (BRAIN)
+	8. Climber (SPINE)
+	9. Coach (SPINE)
+	10. Connoisseur (BRAIN)
+2. Cr-H
+	1. Criminal (SPINE)
+	2. Doctor (HEART)
+	3. Electrician (HEART)
+	4. Farmer (BRAIN)
+	5. Fashion Designer (HEART)
+	6. Figure Skater (SPINE)
+	7. Fireman (SPINE)
+	8. Foreman (SPINE)
+	9. Gymnast (SPINE)
+	10. Hairstylist (HEART)
+3. L-M
+	1. Lawyer (BRAIN)
+	2. Librarian (BRAIN)
+	3. Linguist (BRAIN)
+	4. Manager (SPINE)
+	5. Martial Artist (HEART)
+	6. Mathematician (BRAIN)
+	7. Mechanic (BRAIN)
+	8. Miner (SPINE)
+	9. Musician (HEART)
+	10. Mycologist (BRAIN)
+4. O-R
+	1. Officer (SPINE)
+	2. Painter (HEART)
+	3. Pathologist (BRAIN)
+	4. Photographer (HEART)
+	5. Physicist (BRAIN)
+	6. Pilot (HEART)
+	7. Programmer (BRAIN)
+	8. Psychologist (BRAIN)
+	9. Rancher (SPINE)
+	10. Real Estate Agent (HEART)
+5. S-W
+	1. Safecracker (HEART)
+	2. Sailor (HEART)
+	3. Scuba Diver (SPINE)
+	4. Soldier (SPINE)
+	5. Stunt Driver (HEART)
+	6. Surfer (SPINE)
+	7. Surgeon (HEART)
+	8. Survivalist (SPINE)
+	9. Translator (HEART)
+	10. Welder (SPINE)
 
-## Achievements
-Find Big Fucking Treasures and slay Big Fucking Monsters grants an XP. Work with your Ref to make in world goals you can achieve as well, each of these grants an XP.
+### Inventory
+You can cary SPINE+2 items in your inventory
 
-Collect a number of XP equal to your level to Rank Up. Mark off all XP (but keep the written accomplishments) and take a new Perk. At Level 5 you continue to accrue and mark off XP, but you receive nothing but glory when you would rank up.
+Gain an item for your highest Stat
 
-When you collect XP, you may choose to give it to your followers or pets instead of taking it for yourself.
+Gain an item for your Vice:
+1. Gambling
+	1. Golden rabbits foot keychain
+	2. $1k defunct casino poker chip
+2. Luxury
+	1. 
+3. ???
+	1. 
+4. Stupor
+	1. Video Vice deluxe membership card
+5. ???
+	1. 
 
-## Skills
-When in town or other safe space, over the course of a week you can study to learn new skills instead of any other action. You'll need to find someone who can teach you, or a way to train your skill like a library. 
+Roll below for a random Item:
 
-- Basic Skill - 10 Weeks of training, 20 C in materials and instruction
-- Expert Skill - 20 Weeks of training, 60 C in materials and instruction
-- Advanced Skill - 30 Weeks of training, 120 C in materials and instruction
-
-Payment may be required up front. If studying part-time or without a teacher, double Weeks required for training
+### Links
+You have HEART number of LINKS. What does your professions say about your past? Your vice? Your trinket? Jot down one or two ideas, you can refine them later
