@@ -39,7 +39,7 @@ body {
   mix-blend-mode: difference;
   z-index: -1 !important;
 
-  a:link, a:active {
+  a:link {
     color: #2186BF;
   }
 
@@ -48,7 +48,11 @@ body {
   }
 
   a:hover {
-    color: var(--font-color);
+    color: #60E0C0;
+  }
+
+  a:active {
+    color: #1B958D;
   }
 
   #header {
