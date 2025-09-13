@@ -4,10 +4,10 @@ title: character creation
 tags: crypt, rules, elfgame
 
 ---
-## Name
+# Name
 What’s your character’s name? Pronouns?
 
-## Stats
+# Stats
 Assign points to your stats. You get 9 Points to start. You can assign up to 5 in any stat and must at least assign 1 in each.
 1. **Piss poor** <-- Minimum
 2. Needs Improvement
@@ -32,7 +32,7 @@ Or roll 3 times for a stat line below
 9. 2
 10. 1
 
-## Stress and Vices
+# Stress and Vices
 Your Minimum Stress starts at 1. 
 
 Come up with a Vice for your character or roll below:
@@ -42,7 +42,7 @@ Come up with a Vice for your character or roll below:
 4. Stupor - You're a frequent slacker. When healing stress: Stress clearing takes two downtime actions
 5. ??? - You read philosophy and self-help books for experiences outide your own. When healing stress: On a failed Stress check take +1 Stress from a bad trip
 
-## Professions:
+# Professions:
 Roll twice for a Profession or roll once and come up with a Certification for it. You can have BRAIN+2 max skills. Roll 1d5 and 1d10, value is equal to your value in that stat minus one.
 1. A-Co
 	1. Actor (HEART)
@@ -100,7 +100,7 @@ Roll twice for a Profession or roll once and come up with a Certification for it
 	9. Translator (HEART)
 	10. Welder (SPINE)
 
-### Inventory
+# Inventory
 You can cary SPINE+2 items in your inventory
 
 Gain an item for your highest Stat

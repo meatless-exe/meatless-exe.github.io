@@ -10,7 +10,7 @@ FOR LUDOMECHANICAL MACHINATIONS WITH FRIENDS AND STRANGERS
 > The rule is: can this prose be bullet points? Can the bullet points be a table? Can the table be a diagram? Can the diagram be a map? Can the map be an illustration? - Sean McCoy
 
 # SYSTEM
-## Stats
+# Stats
 Roll 1d10 aiming to get your stat or lower. Rolls of 10 always fail. Rolls of 1 always succeed. Gain a Stress to reroll a dice, using the new number
 
 In combat _Crits Kill_. A headshot. Lucky shot through the window of a helicopter. Hit a grenade on their belt. Cuts both ways. Combat is lethal.
@@ -38,7 +38,7 @@ You have 3 **Stats**:
 - using Big Guns or Melee Weapons
 - number of Inventory slots
 
-## Skills
+# Skills
 You have **Skills**. Skills are measured from 1 to 10 like stats. Skills come in two types: Professions and Certifications. When a skill is applicable, you can use your skill instead of your stat for the test. Skills take time to train and start at the relevant stat -1. So a character training to become a Soldier with a SPINE of 5 will earn Soldier 4. Skill training costs Experience and a Downtime action.
 
 Pick up Certifications for specific areas related to a Profession (ie if you have the Profession Soldier, you can pick up a Certification for Sharpshooting but not for Hacking)
@@ -50,14 +50,14 @@ Pick up Certifications for specific areas related to a Profession (ie if you hav
 | Improve a Profession      | PROF+1 XP         | PROF+1             | Profession goes up 1 |
 | Improve a Certification   | CERT+1 XP         | CERT+1             | Cert goes up 1       |
 
-### HITS
+# HITS
 Your STAMINA is measured in Hits. You have 3 Hits. Hits can be permanently lowered by sustaining particularily gruesome injuries.
 
 Maybe cut this? _Injuries and damage are not revealed until the end of combat (obviously a body hitting the floor is a bit of a reveal, but don't know how bad it is until you check the body)_
 
 If you are knocked to 0 Hits, roll on the Bleedout Table. Roll this in secret when you go down, hiding it under a cup until someone checks your body.
 
-#### Armor 
+# Armor 
 Armor Value (AV) subtracts from incoming damage at or above its armor value. A 2 AV Plate Carrier can protect against 2+ DMG attacks, but also completely blocks 1 DMG attacks. If an attack deals greater than or equal to the Armor Value, the AV drops by 1. If AV reaches 0 the armor is destroyed. The armor subtracts its AV from incoming damage on the attack that breaks it
 
 Standard Military armor has AV 1, ie a Padded Gambeson or Bulletproof Vest. Something like Chainmail or a Plate Carrier has 2. A suit of Platemail or Juggernaut Armor have AV 2 as well, but also give something like negating a specific damage type or making crits impossible.
@@ -78,7 +78,7 @@ Cover can also grant AV and protects againt Crits. Light Cover grants 2 (low wal
 | Tank                 | 5 (or 1 MegaAV)     | Dragon                  | Tank             |
 
 
-#### Healing
+# Healing
 Heal via medical treatment during Downtime. Restore Hits to Maximum.
 
 Store basic healing items (bandages/MREs) (pierogi/dumplings/gyoza?) (pudding pie (Babeczki)/apple pie/crepes/waffles/baklava) in your inventory. take 30 Minutes and heal 1 DMG. Spend Stamina to increase the amount healed
@@ -86,7 +86,7 @@ Store basic healing items (bandages/MREs) (pierogi/dumplings/gyoza?) (pudding pi
 Recover more Hits quickly by drinking a potion or using a Stimpak. When you spend a week resting, make a BODY save. On a success restore Hits to max, remove a condition, or remove all stress?
 
 
-### Bleedout
+# Bleedout
 
 | Roll | Result                                                                                                   |
 |------|----------------------------------------------------------------------------------------------------------|
@@ -96,7 +96,7 @@ Recover more Hits quickly by drinking a potion or using a Stimpak. When you spen
 | 1    | Unconscious and Gain an INJURY to a relevant stat (or your best). |
 
 
-#### Shot while Unarmored
+# Shot while Unarmored
 
 | Roll | Location    | Effect        |
 | ---- | ----------- | ------------- |
@@ -108,7 +108,7 @@ Recover more Hits quickly by drinking a potion or using a Stimpak. When you spen
 | 2    | L. Leg      |               |
 | 1    | R. Leg      |               |
 
-#### Injuries
+# Injuries
 Long term medical conditions, seek dedicated treatment to remove them. If an Injury stacks it becomes permanent
 
 ### STRESS (*Inspired by the SEACAT, Mothership, and Blades in the Dark*)
@@ -138,12 +138,12 @@ When you BREAK roll on the following:
 
 When you BREAK also increase Minimum Stress by 1
 
-#### EXPERIENCE
+# EXPERIENCE
 Stress can be converted into XP to learn new Professions and Certifications. Must engage with Vice to convert/heal stress? Stress healing should be unreliable and takes multiple downtime sessions. During downtime you can convert Stress into XP, spend XP to upgrade skills as part of the Skill Training Downtime. 
 
 When using your vice to remove stress during Downtime, roll a d10. If its under your Stress, reduce stress to that amount (or your minimum stress) and gain that much XP. If the result is at or over your stress, reduce Stress by 1.
 
-### LINKS (*Vast in the Dark*)
+# LINKS (*Vast in the Dark*)
 You have HEART # of LINKS: relationships, core memories, motivations, ideals, aspirations. When you suffer something terrible, strike one out. It is lost forever. When all are lost, you BREAK and either: die, become an NPC, or wander towards the darkest corners of your own mind.
 
 Possible somethings terrible:
@@ -161,7 +161,7 @@ Possible LINKS:
 
 Links can change over time, when you think one of your links is no longer relevent, duscuss with the REF and change it
 
-### INVENTORY
+# INVENTORY
 Items are measured in how many slots they take up: small items (if it can fit in your mouth, don't worry about it), 1 slot items (a sword or pistol), 2 slot items (a greatsword or chainsaw), 3 slot items (heavy armor or heavy weapons like a bazooka or anti-material rifle).
 
 Everything Useful takes 1 Slot: glowsticks, healing items; Some have 3 Uses, mark an X next to it when its used
@@ -170,7 +170,7 @@ Ammunition is Stored as MAGAZINES, takes up a slot, weapons need to reload on a 
 
 You have 5 slots of inventory
 
-## CREDITS
+# CREDITS
 Based off of the games: Red Ink Adventures, Just Halberds, The Landshut Rules, World of Dungeons, GRIMLITE, Goblin Laws of Gaming, the SEACAT, 2400, Mothership, One Page Rules, the Big Wet, FIST, 
 
 ## Items
@@ -186,19 +186,19 @@ Trauma Kit - Stabilize and revive someone after they go down. Gotta still be ali
 
 Fulton Kit
 
-### Ref Stuff:
-#### Mission Information & Redaction
+# Ref Stuff:
+# Mission Information & Redaction
 On Missions with a planning element, the adventure will be provided, but will be redacted, typically around 50%. This includes guard rotations, maps, encounter tables, etc. You may remove secret areas or makeshift passages that would not be listed on a typical map. Unless they have an inside source that would know that.
 
 - Read the Redaction section of this blog post: https://crateredland.blogspot.com/2025/07/facility-clearance-redaction-and-you.html
 - Read about Prep vs Improv on the player level: https://dicegoblin.blog/tactical-espionage-action-a-osr-playstyle-for-the-modern-age/
 
-#### Torture:
+# Torture:
 If an investigator uses torture or threats to extract information, Warden rolls a d10. If roll was a success, information gathered is misleading, useless, wrong, or dangerous on a 4 or higher. If threaten was a failure, but close, the same occurs on a 6+. Critical successes are always incorrect
 
 
-### Conversion
-#### Mothership
+# Conversion
+## Mothership
 ```
 1d5, 1d10, 2d10, or fixed damage up to 20 = 1 Wound
 3d10, 4d10, or fixed damage >20 and up to 40 = 2 Wounds
@@ -206,7 +206,7 @@ If an investigator uses torture or threats to extract information, Warden rolls 
 1 MDMG (100 DMG) is theoretically 5 Wounds, but also should just kill you instantly
 ```
 
-#### FIST
+## FIST
 ```
 Worst of 1d6 => 1d2-1 DMG
 1d6   => 1 DMG
@@ -214,7 +214,7 @@ Worst of 1d6 => 1d2-1 DMG
 1d6+2 => 3 DMG or 1MDMG if explosive
 ```
 
-### Chases
+# Chases
 Tug of war style chases, need to beat opponent's Successes by 3 (5?). Gain a success by taking an action and winning an opposed roll. Both sides alternate. Failures benefit the other side. Attempt gambits by abstaining from your action and setting up something for a future turn. When a gambit comes into play roll that many dice at once. Other side gets 1 dice as usual, they get more if they've done something to deny your gambit. Any unopposed dice are immediate successes. 
 - One side significantly faster than other (rolls +1 Dice when making rolls) ie one car has a nitro on a straightaway
 - One side had a headstart (+1 Success to start)
@@ -223,7 +223,7 @@ Tug of war style chases, need to beat opponent's Successes by 3 (5?). Gain a suc
 - Critical successes cause bonuses
 Critical failures on gambits don't count unless all dice are contested. Possible to crash and still succeed
 
-## Investing for Downtime 
+# Investing for Downtime 
 _(Asset Mechanic by Luka Rejec of Wizard Thef Fighter, converted to 24xx style C)_
 Revenue (Estate + Employment) - Expenses = Income
 - Revenue
@@ -251,14 +251,6 @@ Revenue (Estate + Employment) - Expenses = Income
 	- Home internet connection. -1C/szn
 
 # Other things to figure out:
-Reputation
-### REPUTATION
-As downtime actions: Scrub personal data or fake your death (2 Actions) both reduce reputation. Both are time intensive tasks but can make you harder to track down or recognize
-
-Heat
-Paperwork
-Political Capital
-
 #### Anomalous Investigations
 POLCAP checks: (anomalous investigations)
 - used instead of money, max value of 10
