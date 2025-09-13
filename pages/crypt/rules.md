@@ -1,18 +1,11 @@
----
-layout: post
-title: CRYPT 3E
-tags: crypt, rules, elfgame
-
----
-
-# CRYPT 3e times the charm
+# 3e times the charm
 by meats
 
 FOR LUDOMECHANICAL MACHINATIONS WITH FRIENDS AND STRANGERS
 
 > A good idea is something that does not solve just one single problem, but rather can solve multiple problems at once. - Shigeru Miyamato
 
-> Comparison is faster than addition is faster than subtraction is faster than multiplication. Never default to division
+> Comparison is faster than addition is faster than subtraction is faster than multiplication. Division sucks
 
 > The rule is: can this prose be bullet points? Can the bullet points be a table? Can the table be a diagram? Can the diagram be a map? Can the map be an illustration? - Sean McCoy
 
@@ -30,25 +23,25 @@ When it become important to dictate the exact flow of events, play shifts to a t
 
 You have 3 **Stats**:
 
-SPINE
+**BRAIN** - your Mind
+- know things, notice things, think on your feet, willpower
+- using Energy or other Exotic Weapons
+- number of Skills you can learn
+
+**HEART** - your Soul
+- move quickly, be coordinated, make connections, resist social effects
+- using Conventional Firearms or Throwing Weapons
+- Number of Links you can have
+
+**SPINE** - your Body
 - hit hard, move heavy things, take drugs, resist physical effects
 - using Big Guns or Melee Weapons
 - number of Inventory slots
 
-BRAIN
-- know things, operate complex machinery, think on your feet, resist mental effects
-- using Energy or other Exotic Weapons
-- number of Skills you can learn
-
-HEART
-- move quickly, be coordinated, notice things, resist social effects
-- using Conventional Firearms or Throwing Weapons
-- Number of Links you can have
-
 ## Skills
 You have **Skills**. Skills are measured from 1 to 10 like stats. Skills come in two types: Professions and Certifications. When a skill is applicable, you can use your skill instead of your stat for the test. Skills take time to train and start at the relevant stat -1. So a character training to become a Soldier with a SPINE of 5 will earn Soldier 4. Skill training costs Experience and a Downtime action.
 
-Pick up Certifications for specific areas related to a Profession (ie you have the Profession Soldier, but want to pick up the Certification Sharpshooting)
+Pick up Certifications for specific areas related to a Profession (ie if you have the Profession Soldier, you can pick up a Certification for Sharpshooting but not for Hacking)
 
 |                           | Experience Needed | Downtimes Required | Outcome              |
 | ------------------------- | ----------------- | ------------------ | -------------------- |
@@ -86,7 +79,7 @@ Cover can also grant AV and protects againt Crits. Light Cover grants 2 (low wal
 
 
 #### Healing
-Heal via medical treatment during downtime. Restore Hits to Maximum.
+Heal via medical treatment during Downtime. Restore Hits to Maximum.
 
 Store basic healing items (bandages/MREs) (pierogi/dumplings/gyoza?) (pudding pie (Babeczki)/apple pie/crepes/waffles/baklava) in your inventory. take 30 Minutes and heal 1 DMG. Spend Stamina to increase the amount healed
 
@@ -122,6 +115,7 @@ Long term medical conditions, seek dedicated treatment to remove them. If an Inj
 Increase Stress to...
 - ...heal a DMG when resting,
 - ...to reroll a failed roll
+- ...turn an incoming crit into a normal hit
 
 Gain a stress when...
 - ...sleeping in rough conditions
@@ -145,9 +139,9 @@ When you BREAK roll on the following:
 When you BREAK also increase Minimum Stress by 1
 
 #### EXPERIENCE
-Stress can be converted into XP to learn new Professions and Certifications. Must engage with Vice to convert/heal stress? Stress healing unreliable and takes multiple downtime sessions. During downtime you can convert Stress into XP, spend XP to upgrade skills as part of the Skill Training Downtime. 
+Stress can be converted into XP to learn new Professions and Certifications. Must engage with Vice to convert/heal stress? Stress healing should be unreliable and takes multiple downtime sessions. During downtime you can convert Stress into XP, spend XP to upgrade skills as part of the Skill Training Downtime. 
 
-Roll a d10, aiming for under total failed rolls for that skill. On a success, reset total to 0 and increase your skill by 1. On a failure reduce Experience by 1. Can only attempt 1 Skill per Downtime
+When using your vice to remove stress during Downtime, roll a d10. If its under your Stress, reduce stress to that amount (or your minimum stress) and gain that much XP. If the result is at or over your stress, reduce Stress by 1.
 
 ### LINKS (*Vast in the Dark*)
 You have HEART # of LINKS: relationships, core memories, motivations, ideals, aspirations. When you suffer something terrible, strike one out. It is lost forever. When all are lost, you BREAK and either: die, become an NPC, or wander towards the darkest corners of your own mind.
@@ -165,6 +159,8 @@ Possible LINKS:
 	4. A need to escape
 	5. My sister, Bridgette
 
+Links can change over time, when you think one of your links is no longer relevent, duscuss with the REF and change it
+
 ### INVENTORY
 Items are measured in how many slots they take up: small items (if it can fit in your mouth, don't worry about it), 1 slot items (a sword or pistol), 2 slot items (a greatsword or chainsaw), 3 slot items (heavy armor or heavy weapons like a bazooka or anti-material rifle).
 
@@ -173,37 +169,6 @@ Everything Useful takes 1 Slot: glowsticks, healing items; Some have 3 Uses, mar
 Ammunition is Stored as MAGAZINES, takes up a slot, weapons need to reload on a 8-10. Magazines come in different calibers: Pistol, Rifle, Shotgun, Energy Cells, and Heavy. Grenades and Missiles are single use
 
 You have 5 slots of inventory
-
-## CHARACTER
-What’s your character’s name? Pronouns?
-
-Assign points to your stats. You get 9 Points to start. You can assign up to 5 in any stat and must at least assign 1 in each.
-1. **Piss poor** <-- Minimum
-2. Needs Improvement
-3. **Totally Average**
-4. Above Average
-5. Highly skilled <-- Highest characters can get
-6. Masterful
-7. **Peak human** <-- Human limit
-8. Enhanced
-9. Transhuman
-10. Impossible
-
-Or roll 3 times for a stat line below
-1. 5
-2. 4
-3. 4
-4. 3
-5. 3
-6. 3
-7. 3
-8. 2
-9. 2
-10. 1
-
-Roll for a Profession and a come up with a Certification for it, you can have BRAIN max skills.
-
-Your Minimum Stress starts at 1. You have HEART number of LINKS. You can cary SPINE+2 items in your inventory
 
 ## CREDITS
 Based off of the games: Red Ink Adventures, Just Halberds, The Landshut Rules, World of Dungeons, GRIMLITE, Goblin Laws of Gaming, the SEACAT, 2400, Mothership, One Page Rules, the Big Wet, FIST, 
@@ -386,34 +351,28 @@ Name - Rep: (starts at 0, ranges from -3 (hated) to 3 (admired)) gain access to 
 		- Access to contractors
 #### CRYPT 3e Downtime
 Which of these can be broken down to things based off a roll?
-1. Maintain Cover: work your assigned cover, reduce HEAT
-	- As downtime actions: Scrub personal data or fake your death (2 Actions) both reduce reputation. Both are time intensive tasks but can make you harder to track down or recognize
-2. Relax: kick your feet up and enjoy the beach, restore calm/cool/stress to max. 
-	1. Relieve Stress (*anomalous investigations*)
-3. Medical Treatment (heal wounds)
+
+1. Relax: kick your feet up and enjoy the beach, use your Vice, and roll a d10. If its under your Stress, reduce stress to that amount and gain the difference in XP. If the result is at or over your stress, reduce Stress by 1.
+2. Medical Treatment (heal wounds)
 	1. seek treatment (take 3 times to remove an injury, permanent condition, or curse)
 	2. Recover: gain back hits, remove conditions, etc.
 	3. get Medical care - regain 1 wound. when all wounds are healed, regain max hit points (*anomalous investigations*)
 	4. Seek treatment - take 3x to remove a permanent condition (*anomalous investigations*)
-4. Case Joint: Gain information about a potential AO (HMTW)
-	1. Explore, find additional points of interest nearby
-5. Memorialize: celebrate a fallen life, player can recover 1XP per 10C spent? (HMTW)
-	1. Mourn: Commemorate a fallen friend. You couldn't save them, and they deserved better. Call upon a pallbearer, a steward, or an undertaker.
-6. Research: spend Cash to test BRAIN and ask a question about a subject (HMTW)
+3. Research: spend Cash to test BRAIN and ask a question about a subject (HMTW)
 	1. (*Throne of Salt*) Research allows you to investigate the various materials you may encounter out in the field: Esoteric tomes, Scientific materials, the mad scribblings of a Manifesto, the entirety of a codebase. Each researchable item will have a Research Score, given after the first spent reading it (this is how many weeks it’ll take to finish), and a set of Milestones (these are important bits of lore, actionable intelligence, or new things you can make; these will be revealed when you reach them). A Research Item may look like: Manual for the Improvement of Advanced Cybernetics (RS:5 ML:2(3,5)). For each week spent Researching a material, make an Intellect check:
 		- On a success: Increment Research Points by 1
 		- On a critical success: Breakthrough, immediately gain Research Points to jump to the next Milestone
 		- On a failure: Do not increment research points, take 1 Stress
 		- On a critical failure: You made a critical error in your earlier work, lose 1 Research Point, take 1d5 Stress
 	2. Research: Delve deep into a special interest. Get so obsessed you forget to eat while you acquire valuable knowledge. Use a librarian, a scholar, or a philosopher.
-	3. 
-7. Train: spend 1C per 1XP to a new profession, specialization or learn an out of profession specialization? (HMTW)
+	3. Case Joint: Gain information about a potential AO (HMTW)
+4. Train: spend 1C per 1XP to a new profession, specialization or learn an out of profession specialization? (HMTW)
 	1. take a number of times equal to 10 - STAT?
 		1. -1 if part of your Profession?
 		2. +1 for out of profession training?
 	2. (*mothership*) Study: pay cost equal to how long you’ll be studying
 	3. Train: Improve yourself through daily drills and repetition. Pick up a new trick like a dog. A guide, a mentor, or a master is may be necessary
-8. (*Emmy Verte*) Carouse: 
+5. (*Emmy Verte*) Carouse: 
 	1. Contacts are everyone with whom your crew has a relationship with. If you make an effort to improve your relationship, roll a d10 and compare it to your current score. If you roll below, increase the score by 1. If you roll above, you must complete a task before you can change the relationship.
 		- 1-2 Nemesis - Actively creates dangers, traps and terrors for the crew
 		- 3-4 Foe - Prevents the crew from achieving their goals when given the opportunity
@@ -423,13 +382,13 @@ Which of these can be broken down to things based off a roll?
 	- Carousing: Waste money, gain experience
 	- Learn: Catch a whiff of something juicy—whether it's gossip, secrets, or hard facts. It will prove useful. Think of an agent, a spy, or even a blabbermouth.
 	- make outside connections - gather information or gain useful personal asset for the next mission (*anomalous investigations*)
-9. (*Emmy Verte*) Network to find canvas for information, hear rumors, or establish connections. Pay Shore Leave costs in free drinks, tips, and bribes
-	1. Carouse (learn new rumors)
-	2. Find a buyer 
-10. Therapy
-11. Stash: Secretly move Cash into your Swiss Bank Account. For "retirement"
-12. ???: Convert Assets into Cash or Attempt to convert Counterfeit Cash into real money.
-13. Solo Quest: The character pursues a personal goal which would perhaps be too much of a distraction for them to drag the rest of the party along for. The player sets one specific goal which must be approved by the referee, then rolls 2d6:
+	- Explore, find additional points of interest nearby
+	1. (*Emmy Verte*) Network to find canvas for information, hear rumors, or establish connections. Pay Shore Leave costs in free drinks, tips, and bribes
+	2. Carouse (learn new rumors)
+	3. Requisition an asset - test POLCAP, on success gain access to special asset on the next mission. if requesting an anomaly, check with [-] (*anomalous investigations*)
+	4. request information - test POLCAP with [+], if a success you are given any knowledge they have (if they don't, you do not lose POLCAP) (*anomalous investigations*)
+6. Therapy - Spend XP to Restore a broken LINK
+7. Solo Quest: The character pursues a personal goal which would perhaps be too much of a distraction for them to drag the rest of the party along for. The player sets one specific goal which must be approved by the referee, then rolls 2d6:
 	- 1. Success, no injuries, and you also brought home 1d5 Assets!
 	- 2-3. Success, no rewards, no injuries
 	- 4-7. Success, begin next Adventure with -1 Hit
@@ -438,21 +397,28 @@ Which of these can be broken down to things based off a roll?
 	4. Work: do off the books contract work, gain some extra Cash (1d5 C)
 	5. Work: Slog through the trenches of mundanity and find fulfillment in honest labor. Earn your scraps with a contractor, a noble, or a boss.
 	6. Some groups will give jobs to party members
-14. request information - test POLCAP with [+], if a success you are given any knowledge they have (if they don't, you do not lose POLCAP) (*anomalous investigations*)
-15. file paperwork - clear 1 unit of paperwork per downtime (*anomalous investigations*)
-16. Requisition an asset - test POLCAP, on success gain access to special asset on the next mission. if requesting an anomaly, check with [-] (*anomalous investigations*)
-17. gain political capital - gain +1 political capital (can only be taken when POLCAP is less than 3) (*anomalous investigations*)
-18. work on a project - personal project (*anomalous investigations*)
-19. Gamble: Spin the wheel, roll the dice, flip those cards—your big break is just one game away.
+8. file paperwork - clear 1 unit of paperwork per downtime (*anomalous investigations*) -> transitios to maintain cover/reduce heat in goes solo
+	1. Maintain Cover: work your assigned cover, reduce HEAT
+	- As downtime actions: Scrub personal data or fake your death (2 Actions) both reduce reputation. Both are time intensive tasks but can make you harder to track down or recognize
+	- gain political capital - gain +1 political capital (can only be taken when POLCAP is less than 3) (*anomalous investigations*)
+9. work on a project - personal project (*anomalous investigations*)
+10. Memorialize: celebrate a fallen life, player can recover 1XP per 10C spent? (HMTW)
+	1. Mourn: Commemorate a fallen friend. You couldn't save them, and they deserved better. Call upon a pallbearer, a steward, or an undertaker.
 
-"quick downtime actions:"
+Unlockable: 
+- High Class STAT Bonus activities: Athenaeum, Symposium, Symphony, etc.
+
 13. Invest: Luka Rejec Asset mechanics here
 	1. Invest: Buy yourself into success and friendship. You might not be likable, but you've got the money. Rely on a broker, a financier, or a proprietor.
+7. Stash: Secretly move Cash into your Swiss Bank Account. For "retirement"
+	1. ???: Convert Assets into Cash or Attempt to convert Counterfeit Cash into real money.
+	2. Find a buyer
+
 
 Convert to lifestyle expenses:
 	Live a life of excess! Pay 2 C, gain one of the following conditions, they are cleared when used:
 	    - athenaeum/opera - try again on BRAIN saves
-	    - massage - try again on SPINE saves
+	    - massage/high class resturant - try again on SPINE saves
 	    - escape room, trampoline park, boat trip, speed dating, gambling, arcade - try again on HEART saves
 ## Bases
 After the first MISSION, Agents gain options to customize and expand their base as part of the 
@@ -463,6 +429,47 @@ Upgrades
 - Logistics - +1 Rendevous singal per mission
 - Supply team - Call in a resupply once per mission (1 basic item per agent)
 - Rooms that give [+] on a single roll (Gym for SPINE, Shooting range for HEART?, Library for BRAIN)
+
+Bases
+- require 1 Crateful of Loot (Lootcrate) to upgrade
+- wires pay 2 crates of loot, and offer the ability to source at least 1 Cargo on site
+	- Cargo is as follows:
+		1. Anomalous Containment Unit (rare or special item) - can't sell
+		2. Construction Crate (materials for building) - buy or sell for 1 LC
+		3. Fuel Tank (refuels any 1 vehicle. upkeep: roll 1d5 for every vehicle, on a 1 vehicle runs out of fuel) - buy for 1, can't sell
+		4. Medical Crate (allows for rest in wire or contains 1d6 random medical supplies and 1d6 painkillers (+1 Hit, consumable)) - buy or sell for 1
+		5. Ordanance Crate (contains ammo and 1d6 weapons and armor) - buy or sell for 1
+		6. Heavy Ordanance Crate (ammo restock for one vehicle, 1 random heavy weapon and 1d6 frag grenades) - buy or sell for 1
+		7. Supply Crate (during wire allows all mercs to restock, otheriwse contains 1d6 common or standard issue items. required to sustain base, roll 1d5 for each barracks at base, on a 1 consume a supply crate or run dangerously low on resource. if happens twice, base is lost) - buy for 1 cannot sell
+- 1 Lootcrate = 25C
+- Upgrades:
+	- Vehicle Pad, store 1 vehicle
+	- Listening Station, leads on future missions of interest, intel on a future mission
+	- Bunker, convert a template room that be turned into any type of room
+	- Barracks, space for workers to live
+	- Squat, enough space for you to crash
+
+HOMEBASE
+Establishing a homebase costs 30 Credits - pick a location from the list in the following section. The homebase is fitted with the following setup (upgrades cost 10 credits each).
+COMMUNICATIONS: Basic shortwave radio. Upgrades: long-range HF radio, secured frequency modulator, signal interception unit.
+DEFENSES: Basic mechanical alarms. Upgrades: extensive alarm system, reinforced barricades, light sensor security system.
+LIVING QUARTERS: Basic accommodations. Upgrades: improved living conditions, individualized quarters, makeshift infirmary.
+WORKSHOPS: Basic repair tools. Upgrades: electronics bench, explosives handling area, advanced mechanic's bay.
+SURVEILLANCE: Basic lookout posts. Upgrades: periscope surveillance system, rooftop post, tripwire network.
+POWER: City-grid power connection. Upgrades: backup generator, improved wiring, isolated grounding system.
+
+HOMEBASE LOCATION
+When establishing a homebase, pick one of the following site types. 
+ABANDONED WAREHOUSE: Half price for living quarters and workshops. Difficult to secure due to multiple entrances. 
+UNDERGROUND BUNKER: Improved defenses with fortified entrances. Limited space risks upgrades costing more. 
+OLD OFFICE BUILDING: Pre-existing network of old telecommunications lines. Suboptimal for fortification and defenses. 
+SUBWAY STATION: Direct access to the city's subterranean transit network. Risk of power outages. 
+OLD CARGO SHIP: Flexible and modular, can relocate. No landline or power grid. 
+ROOFTOPS GREENHOUSES: Source of food and potential for medicinal plants. Exposed location, living quarters and workshops cost 50% more to build. 
+SEWER JUNCTION: Access to the city's underbelly and waste streams (potential resources). Radio equipment is limited, and crew risks diseases. 
+OLD FACTORY: Offers scraps and salvageable equipment during downtime. Unsuited for living, risks low morale and extended recovery time. 
+DESERTED SHOPPING MALL: Variety of pre-existing facilities (restaurants, stores, etc.) for diverse uses. Risks upgrades taking longer time to implement. 
+AIRSHIP DOCKING BAY: Quick access to vertical routes, potentially keeping an air vehicle. Exposed to the elements, demanding regular maintenance.
 
 Side Ops
 - Awards 1 or 2 Cargo/RQ (used to build/upgrade base). Done outside of Operations or Missions
