@@ -4,10 +4,7 @@ title: character creation
 tags: crypt, rules, elfgame
 
 ---
-# Name
-What’s your character’s name? Pronouns?
 
-# Stats
 Assign points to your stats. You get 9 Points to start. You can assign up to 5 in any stat and must at least assign 1 in each.
 1. **Piss poor** <-- Minimum
 2. Needs Improvement
@@ -42,7 +39,7 @@ Come up with a Vice for your character or roll below:
 4. Stupor - You're a frequent slacker. When healing stress: Stress clearing takes two downtime actions
 5. ??? - You read philosophy and self-help books for experiences outide your own. When healing stress: On a failed Stress check take +1 Stress from a bad trip
 
-# Professions:
+## Professions:
 Roll twice for a Profession or roll once and come up with a Certification for it. You can have BRAIN+2 max skills. Roll 1d5 and 1d10, value is equal to your value in that stat minus one.
 1. A-Co
 	1. Actor (HEART)
@@ -103,22 +100,12 @@ Roll twice for a Profession or roll once and come up with a Certification for it
 # Inventory
 You can cary SPINE+2 items in your inventory
 
-Gain an item for your highest Stat
+You have a Hangover and your wallet
 
-Gain an item for your Vice:
-1. Gambling
-	1. Golden rabbits foot keychain
-	2. $1k defunct casino poker chip
-2. Luxury
-	1. 
-3. ???
-	1. 
-4. Stupor
-	1. Video Vice deluxe membership card
-5. ???
-	1. 
+# Bonds
+You have HEART # of BONDS. What does your professions say about your past? Your vice? Your trinket? Jot down one or two ideas, you can refine them later
 
-Roll below for a random Item:
+# Other Stuff
+You have 3 Hits
 
-### Links
-You have HEART number of LINKS. What does your professions say about your past? Your vice? Your trinket? Jot down one or two ideas, you can refine them later
+What’s your character’s name? Pronouns?

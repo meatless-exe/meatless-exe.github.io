@@ -31,7 +31,7 @@ You have 3 **Stats**:
 **HEART** - your Soul
 - move quickly, be coordinated, make connections, resist social effects
 - using Conventional Firearms or Throwing Weapons
-- Number of Links you can have
+- Number of Bonds you can have
 
 **SPINE** - your Body
 - hit hard, move heavy things, take drugs, resist physical effects
@@ -143,15 +143,16 @@ Stress can be converted into XP to learn new Professions and Certifications. Mus
 
 When using your vice to remove stress during Downtime, roll a d10. If its under your Stress, reduce stress to that amount (or your minimum stress) and gain that much XP. If the result is at or over your stress, reduce Stress by 1.
 
-# LINKS (*Vast in the Dark*)
-You have HEART # of LINKS: relationships, core memories, motivations, ideals, aspirations. When you suffer something terrible, strike one out. It is lost forever. When all are lost, you BREAK and either: die, become an NPC, or wander towards the darkest corners of your own mind.
+# Bonds (*Vast in the Dark*)
+You have HEART # of BONDS: relationships, core memories, motivations, ideals, aspirations. When you suffer something terrible, strike one out. It is lost forever. When all are lost, you BREAK and either: die, become an NPC, or wander towards the darkest corners of your own mind.
 
 Possible somethings terrible:
 1. Dropping to 0 HP
 2. Extreme Stress/Exhaustion (reach max stress)
 3. Minimum Stress exceeds BRAIN
 4. Experiencing a Great Tragedy
-Possible LINKS:
+
+Possible Bonds:
 - Examples:
 	1. The smell of books
 	2. Hunger for knowledge
@@ -159,7 +160,7 @@ Possible LINKS:
 	4. A need to escape
 	5. My sister, Bridgette
 
-Links can change over time, when you think one of your links is no longer relevent, duscuss with the REF and change it
+Bonds can change over time, when you think one of your bonds is no longer relevent, duscuss with the REF and change it
 
 # INVENTORY
 Items are measured in how many slots they take up: small items (if it can fit in your mouth, don't worry about it), 1 slot items (a sword or pistol), 2 slot items (a greatsword or chainsaw), 3 slot items (heavy armor or heavy weapons like a bazooka or anti-material rifle).
