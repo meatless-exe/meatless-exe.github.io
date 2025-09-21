@@ -1,10 +1,3 @@
----
-layout: post
-title: character creation
-tags: crypt, rules, elfgame
-
----
-
 Assign points to your stats. You get 9 Points to start. You can assign up to 5 in any stat and must at least assign 1 in each.
 1. **Piss poor** <-- Minimum
 2. Needs Improvement
@@ -33,11 +26,11 @@ Or roll 3 times for a stat line below
 Your Minimum Stress starts at 1. 
 
 Come up with a Vice for your character or roll below:
-1. Gambling - You're never one to shy away from risks and you have at least one good luck charm. When healing stress: Spend 1d10-5 Cash on to heal Stress (gain Cash on negatives)
-2. Luxury - You value the finer things in life and are always keeping track of trends. When healing stress: Replace a random item in your Inventory with a version that costs twice as much 
-3. ??? - You frequently have a coffee or energy drink in hand. When healing stress: Take 1 hit as you hit the harder stuff
-4. Stupor - You're a frequent slacker. When healing stress: Stress clearing takes two downtime actions
-5. ??? - You read philosophy and self-help books for experiences outide your own. When healing stress: On a failed Stress check take +1 Stress from a bad trip
+1. Greed - You're never one to shy away from risks and you have at least one good luck charm. When healing stress: Spend 1d10-5 Cash on to heal Stress (gain Cash on negatives)
+2. Envy - You value the finer things in life and are always keeping track of trends. When healing stress: Replace a random item in your Inventory with a version that costs twice as much 
+3. Gluttony - You frequently have a coffee or energy drink in hand. When healing stress: Take 1 hit as you hit the harder stuff
+4. Sloth - You're a frequent slacker. When healing stress: Stress clearing takes two downtime actions
+5. Pride - You read philosophy and self-help books for experiences outide your own. When healing stress: On a failed Stress check take +1 Stress from a bad trip
 
 ## Professions:
 Roll twice for a Profession or roll once and come up with a Certification for it. You can have BRAIN+2 max skills. Roll 1d5 and 1d10, value is equal to your value in that stat minus one.
@@ -100,12 +93,38 @@ Roll twice for a Profession or roll once and come up with a Certification for it
 # Inventory
 You can cary SPINE+2 items in your inventory
 
-You have a Hangover and your wallet
+Gain an item for your highest Stat
+
+Gain an item for your Vice:
+1. Greed
+	1. Golden rabbits foot keychain
+	2. $1k defunct casino poker chip
+2. Envy
+	1. 
+3. Gluttony
+	1. 
+4. Sloth
+	1. Video Vice deluxe membership card
+5. Pride
+	1. Bonsai tree
+	2. 
+
+Roll below for a random Item:
 
 # Bonds
-You have HEART # of BONDS. What does your professions say about your past? Your vice? Your trinket? Jot down one or two ideas, you can refine them later
+You have 3 BONDS. These are the thing that ground you. What does your professions say about your past? Your vice? Your trinket? Jot down one or two ideas, you can refine them later
+
+1. Smell of old books
+2. Crisp winter air
+3. Sweets
+
+1. Drinking buddies
+2. Highschool teacher
+3. 
 
 # Other Stuff
 You have 3 Hits
 
 What’s your character’s name? Pronouns?
+
+You have a hangover

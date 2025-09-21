@@ -1,4 +1,4 @@
-# 3e times the charm
+## the 0x AWARD nominated RPG is finally available!
 by meats
 
 FOR LUDOMECHANICAL MACHINATIONS WITH FRIENDS AND STRANGERS
@@ -10,7 +10,7 @@ FOR LUDOMECHANICAL MACHINATIONS WITH FRIENDS AND STRANGERS
 > The rule is: can this prose be bullet points? Can the bullet points be a table? Can the table be a diagram? Can the diagram be a map? Can the map be an illustration? - Sean McCoy
 
 # SYSTEM
-# Stats
+## Stats
 Roll 1d10 aiming to get your stat or lower. Rolls of 10 always fail. Rolls of 1 always succeed. Gain a Stress to reroll a dice, using the new number
 
 In combat _Crits Kill_. A headshot. Lucky shot through the window of a helicopter. Hit a grenade on their belt. Cuts both ways. Combat is lethal.
@@ -24,40 +24,41 @@ When it become important to dictate the exact flow of events, play shifts to a t
 You have 3 **Stats**:
 
 **BRAIN** - your Mind
-- know things, notice things, think on your feet, willpower
+- know things, notice things, willpower
 - using Energy or other Exotic Weapons
 - number of Skills you can learn
 
 **HEART** - your Soul
-- move quickly, be coordinated, make connections, resist social effects
+- move quickly, be coordinated, think on your feet
 - using Conventional Firearms or Throwing Weapons
-- Number of Bonds you can have
 
 **SPINE** - your Body
 - hit hard, move heavy things, take drugs, resist physical effects
 - using Big Guns or Melee Weapons
 - number of Inventory slots
 
-# Skills
-You have **Skills**. Skills are measured from 1 to 10 like stats. Skills come in two types: Professions and Certifications. When a skill is applicable, you can use your skill instead of your stat for the test. Skills take time to train and start at the relevant stat -1. So a character training to become a Soldier with a SPINE of 5 will earn Soldier 4. Skill training costs Experience and a Downtime action.
+## Skills
+You have **Skills**. Skills are measured from 1 to 10 like stats. Skills come in two types: Professions and Certifications. When a skill is applicable, you can use your skill instead of your stat for the test. Skills take time to train and start at the relevant stat plus 1. So a character training to become a Soldier with a SPINE of 3 will earn Soldier 4. Skill training costs Experience and a Downtime action.
 
 Pick up Certifications for specific areas related to a Profession (ie if you have the Profession Soldier, you can pick up a Certification for Sharpshooting but not for Hacking)
 
+Skills cap at 7
+
 |                           | Experience Needed | Downtimes Required | Outcome              |
 | ------------------------- | ----------------- | ------------------ | -------------------- |
-| Learn a new Profession    | STAT+1 XP         | 10-STAT            | Profession at STAT-1 |
-| Learn a new Certification | PROF+1 XP         | 7-PROF             | Cert at PROF-1       |
+| Learn a new Profession    | STAT+1 XP         | 12-STAT            | Profession at STAT+1 |
+| Learn a new Certification | PROF+1 XP         | 7-PROF             | Cert at PROF+1       |
 | Improve a Profession      | PROF+1 XP         | PROF+1             | Profession goes up 1 |
 | Improve a Certification   | CERT+1 XP         | CERT+1             | Cert goes up 1       |
 
-# HITS
+### HITS
 Your STAMINA is measured in Hits. You have 3 Hits. Hits can be permanently lowered by sustaining particularily gruesome injuries.
 
 Maybe cut this? _Injuries and damage are not revealed until the end of combat (obviously a body hitting the floor is a bit of a reveal, but don't know how bad it is until you check the body)_
 
 If you are knocked to 0 Hits, roll on the Bleedout Table. Roll this in secret when you go down, hiding it under a cup until someone checks your body.
 
-# Armor 
+#### Armor 
 Armor Value (AV) subtracts from incoming damage at or above its armor value. A 2 AV Plate Carrier can protect against 2+ DMG attacks, but also completely blocks 1 DMG attacks. If an attack deals greater than or equal to the Armor Value, the AV drops by 1. If AV reaches 0 the armor is destroyed. The armor subtracts its AV from incoming damage on the attack that breaks it
 
 Standard Military armor has AV 1, ie a Padded Gambeson or Bulletproof Vest. Something like Chainmail or a Plate Carrier has 2. A suit of Platemail or Juggernaut Armor have AV 2 as well, but also give something like negating a specific damage type or making crits impossible.
@@ -78,7 +79,7 @@ Cover can also grant AV and protects againt Crits. Light Cover grants 2 (low wal
 | Tank                 | 5 (or 1 MegaAV)     | Dragon                  | Tank             |
 
 
-# Healing
+#### Healing
 Heal via medical treatment during Downtime. Restore Hits to Maximum.
 
 Store basic healing items (bandages/MREs) (pierogi/dumplings/gyoza?) (pudding pie (Babeczki)/apple pie/crepes/waffles/baklava) in your inventory. take 30 Minutes and heal 1 DMG. Spend Stamina to increase the amount healed
@@ -86,7 +87,7 @@ Store basic healing items (bandages/MREs) (pierogi/dumplings/gyoza?) (pudding pi
 Recover more Hits quickly by drinking a potion or using a Stimpak. When you spend a week resting, make a BODY save. On a success restore Hits to max, remove a condition, or remove all stress?
 
 
-# Bleedout
+### Bleedout
 
 | Roll | Result                                                                                                   |
 |------|----------------------------------------------------------------------------------------------------------|
@@ -96,7 +97,7 @@ Recover more Hits quickly by drinking a potion or using a Stimpak. When you spen
 | 1    | Unconscious and Gain an INJURY to a relevant stat (or your best). |
 
 
-# Shot while Unarmored
+#### Shot while Unarmored
 
 | Roll | Location    | Effect        |
 | ---- | ----------- | ------------- |
@@ -108,7 +109,7 @@ Recover more Hits quickly by drinking a potion or using a Stimpak. When you spen
 | 2    | L. Leg      |               |
 | 1    | R. Leg      |               |
 
-# Injuries
+#### Injuries
 Long term medical conditions, seek dedicated treatment to remove them. If an Injury stacks it becomes permanent
 
 ### STRESS (*Inspired by the SEACAT, Mothership, and Blades in the Dark*)
@@ -138,21 +139,20 @@ When you BREAK roll on the following:
 
 When you BREAK also increase Minimum Stress by 1
 
-# EXPERIENCE
+#### EXPERIENCE
 Stress can be converted into XP to learn new Professions and Certifications. Must engage with Vice to convert/heal stress? Stress healing should be unreliable and takes multiple downtime sessions. During downtime you can convert Stress into XP, spend XP to upgrade skills as part of the Skill Training Downtime. 
 
 When using your vice to remove stress during Downtime, roll a d10. If its under your Stress, reduce stress to that amount (or your minimum stress) and gain that much XP. If the result is at or over your stress, reduce Stress by 1.
 
-# Bonds (*Vast in the Dark*)
-You have HEART # of BONDS: relationships, core memories, motivations, ideals, aspirations. When you suffer something terrible, strike one out. It is lost forever. When all are lost, you BREAK and either: die, become an NPC, or wander towards the darkest corners of your own mind.
+### BONDS (*Vast in the Dark*)
+You have 3 BONDS: these can be relationships, core memories, motivations, ideals, aspirations. When you suffer something terrible, strike one out. It is lost forever. When all are lost, you BREAK and either: die, become an NPC, or wander towards the darkest corners of your own mind.
 
 Possible somethings terrible:
 1. Dropping to 0 HP
 2. Extreme Stress/Exhaustion (reach max stress)
 3. Minimum Stress exceeds BRAIN
 4. Experiencing a Great Tragedy
-
-Possible Bonds:
+Possible BONDS:
 - Examples:
 	1. The smell of books
 	2. Hunger for knowledge
@@ -160,9 +160,9 @@ Possible Bonds:
 	4. A need to escape
 	5. My sister, Bridgette
 
-Bonds can change over time, when you think one of your bonds is no longer relevent, duscuss with the REF and change it
+BONDS can change over time, when you think one of your BONDS is no longer relevent, duscuss with the REF and change it
 
-# INVENTORY
+### INVENTORY
 Items are measured in how many slots they take up: small items (if it can fit in your mouth, don't worry about it), 1 slot items (a sword or pistol), 2 slot items (a greatsword or chainsaw), 3 slot items (heavy armor or heavy weapons like a bazooka or anti-material rifle).
 
 Everything Useful takes 1 Slot: glowsticks, healing items; Some have 3 Uses, mark an X next to it when its used
@@ -171,7 +171,7 @@ Ammunition is Stored as MAGAZINES, takes up a slot, weapons need to reload on a 
 
 You have 5 slots of inventory
 
-# CREDITS
+## CREDITS
 Based off of the games: Red Ink Adventures, Just Halberds, The Landshut Rules, World of Dungeons, GRIMLITE, Goblin Laws of Gaming, the SEACAT, 2400, Mothership, One Page Rules, the Big Wet, FIST, 
 
 ## Items
@@ -187,19 +187,19 @@ Trauma Kit - Stabilize and revive someone after they go down. Gotta still be ali
 
 Fulton Kit
 
-# Ref Stuff:
-# Mission Information & Redaction
+### Ref Stuff:
+#### Mission Information & Redaction
 On Missions with a planning element, the adventure will be provided, but will be redacted, typically around 50%. This includes guard rotations, maps, encounter tables, etc. You may remove secret areas or makeshift passages that would not be listed on a typical map. Unless they have an inside source that would know that.
 
 - Read the Redaction section of this blog post: https://crateredland.blogspot.com/2025/07/facility-clearance-redaction-and-you.html
 - Read about Prep vs Improv on the player level: https://dicegoblin.blog/tactical-espionage-action-a-osr-playstyle-for-the-modern-age/
 
-# Torture:
-If an investigator uses torture or threats to extract information, Warden rolls a d10. If roll was a success, information gathered is misleading, useless, wrong, or dangerous on a 4 or higher. If threaten was a failure, but close, the same occurs on a 6+. Critical successes are always incorrect
+#### Torture:
+If investigators use torture or threats to extract information, Warden rolls a d10. If roll was a success, information gathered is misleading, useless, wrong, or dangerous on a 4 or higher. If threaten was a failure, but close, the same occurs on a 6+. Critical successes are always incorrect
 
 
-# Conversion
-## Mothership
+### Conversion
+#### Mothership
 ```
 1d5, 1d10, 2d10, or fixed damage up to 20 = 1 Wound
 3d10, 4d10, or fixed damage >20 and up to 40 = 2 Wounds
@@ -207,7 +207,7 @@ If an investigator uses torture or threats to extract information, Warden rolls 
 1 MDMG (100 DMG) is theoretically 5 Wounds, but also should just kill you instantly
 ```
 
-## FIST
+#### FIST
 ```
 Worst of 1d6 => 1d2-1 DMG
 1d6   => 1 DMG
@@ -215,7 +215,7 @@ Worst of 1d6 => 1d2-1 DMG
 1d6+2 => 3 DMG or 1MDMG if explosive
 ```
 
-# Chases
+### Chases
 Tug of war style chases, need to beat opponent's Successes by 3 (5?). Gain a success by taking an action and winning an opposed roll. Both sides alternate. Failures benefit the other side. Attempt gambits by abstaining from your action and setting up something for a future turn. When a gambit comes into play roll that many dice at once. Other side gets 1 dice as usual, they get more if they've done something to deny your gambit. Any unopposed dice are immediate successes. 
 - One side significantly faster than other (rolls +1 Dice when making rolls) ie one car has a nitro on a straightaway
 - One side had a headstart (+1 Success to start)
@@ -224,35 +224,26 @@ Tug of war style chases, need to beat opponent's Successes by 3 (5?). Gain a suc
 - Critical successes cause bonuses
 Critical failures on gambits don't count unless all dice are contested. Possible to crash and still succeed
 
-# Investing for Downtime 
-_(Asset Mechanic by Luka Rejec of Wizard Thef Fighter, converted to 24xx style C)_
-Revenue (Estate + Employment) - Expenses = Income
-- Revenue
-	- Estate
-		- Investing 100C into your estate gives you 1C per season
-		- Can liquidate your estate and receive 50C and reduce your total revenue by 1C/szn
-		- Estate sizes:
-			- Humble Estate. 500C. +5C/szn. Enough to scrape by.
-			- Small Estate. 1kC. +10C/szn. Enough for a poor family.
-			- Middling Estate. 5kC. +50C/szn. Enough to live comfortably in a middle class neighborhood.
-			- Fine Estate. 50kC. +500C/szn. Upper class life.
-			- Grand Estate. 1mC. +10kC/szn. The minimum to call oneself a proper baron.
-	- Employment
-		- Unskilled: +1C/szn
-		- Profession: +2C/szn
-		- Certification: +5C/szn
-		- Salary/Retainer: +1C/szn w/ +1C/szn for each successfully completed Mission
-- Expenses
-	- Hirelings/retainer/employee salaries
-	- Lifestyle (changes take a season)
-		- Frugal. -10C/szn. To adventure, come as you are.
-		- Comfortable. -30C/szn. When you go on an adventure, start with 1 bonus Hit.
-		- Luxurious. -150C/szn. On adventures, start with 1 bonus Hit and 1 free Stress (cancels out first spend of a stess).
-	- Cell phone bill. -1C/szn
-	- Home internet connection. -1C/szn
+### Job Payment:
+- Quick Job (solo jobs and single session bonus gigs) = 1d5 x $1k per person
+- Standard Operation = 1d10 x $10k per person
+- Critical Mission (failure is not an option) = 5d10 x $10k per person
 
-# Other things to figure out:
-#### Anomalous Investigations
+### Paperwork
+Paperwork (anomalous investigations)
+- generate paperwork for the following:
+	- mission failure
+	- IRIS exposed or civilian learned of operation
+	- significant collateral damage (director's discretion)
+	- special asset lost or destroyed (two if fell into hostile control)
+	- agent lost
+	- *anomaly was created/released through actions of an agent*
+	- IRIS was implicated as a result of mission
+	- anything else at Director's discretion
+- Mission operations take precedence, paperwork is shared by the unit as a whole
+- Units with outstanding paperwork have [-] on POLCAP checks
+- 20+ Paperwork results in -1 POLCAP for each 2 downtimes (1 for extra downtime) where paperwork is not processed, until it drops below this number
+
 POLCAP checks: (anomalous investigations)
 - used instead of money, max value of 10
 - checks
@@ -270,8 +261,40 @@ POLCAP checks: (anomalous investigations)
 - if POLCAP ever reaches -10, your unit is re-organized and all members are sent to another Unit or job (typically light desk work). everyone makes new characters to fill your replacement unit
 	- unless you decide to go ROGUE
 
-POLCAP: influence? leverage? credit? reputation?
+### Downtime
+1. IRIS
+	1. **File Paperwork** - Mark off 1 unit of PAPERWORK per downtime (*anomalous investigations*)
+	2. **Request** - Test PAPERWORK (roll under 10 - PAPERWORK) to request Information [+] or an Asset (flat test) for the next mission. On a success they give you what they have.
+	3. **Therapy** - Take 4 times and spend XP to Restore a Broken BOND
+	4. **Train** - Spend $ and XP to learn or improve a Profession or Specialization
+	5. **Funeral** - Organize the death of a comrade in arms. Can't be taken for a character you had control of. Player of dead character can recover 1XP per $10k spent to spend on a new character
+2. Personal
+	1. **Develop** - work on a personal project. Standard project takes 4 Actions ton finish
+	2. **Seek Treatment** - Heal wounds or remove an injury
+	3. **Relax** - Use your Vice and remove Stress. Roll a d10. 
+		1. Under Stress: Reduce stress to result, gain the difference in XP
+		2. Equal or Over Stress: Reduce Stress by 1, gain 1 XP
+	4. **Research** - BRAIN check to gather information about a person, place, thing, faction, or idea. 
+		1. Success: ask 3 questions about it
+		2. Failure: ask 1 question
+	5. **Solo** - Pursue a personal mission (those given by a person or faction may come with base pay). Set one specific goal which must be approved by the Ref, then roll 3d10 in order:
+		1. Objective
+			- 1. Critical Success (roll Rewards with [+])
+			- 2-5. Success
+			- 6-9. Failure
+			- 10. Critical Failure (roll Consequences with [-])
+		2. Rewards
+			- 1. 2d5 x $1k
+			- 2-5. 1d5 x $1k
+			- 6-9. No bonus rewards
+			- 10. -1d5 x $1k
+		3. Consequences
+			- 1. No injuries, and you also brought home some extra goodies!
+			- 2-5. No rewards, no injuries
+			- 6-9. Begin next Adventure with -1 Hit
+			- 0. Begin next Adventure -1 Hit and 1d5 stress OR a random injury
 
+# Other things to figure out:
 Field Reqs: (anomalous investigations)
 1. first request: generate +1 paperwork
 2. subsequent requests: check POLCAP, +1 paperwork
@@ -293,19 +316,7 @@ Clearance Level (anomalous investigations)
 	3. docked pay
 	4. undesirable assignments
 
-Paperwork (anomalous investigations)
-- generate paperwork for the following:
-	- mission failure
-	- IRIS exposed or civilian learned of operation
-	- significant collateral damage (director's discretion)
-	- special asset lost or destroyed (two if fell into hostile control)
-	- agent lost
-	- *anomaly was created/released through actions of an agent*
-	- IRIS was implicated as a result of mission
-	- anything else at Director's discretion
-- Mission operations take precedence, paperwork is shared by the unit as a whole
-- Units with outstanding paperwork have [-] on POLCAP checks
-- 20+ Paperwork results in -1 POLCAP for each 2 downtimes (1 for extra downtime) where paperwork is not processed, until it drops below this number
+
 
 #### Factions ([Papers and Pencils](https://www.paperspencils.com/proceduralism-on-a-red-world-alone/))
 ##### Each adventure should begin with rolling a _consequence_, the physical outcome of a specific action. maybe someone's out for revenge, or there's increased security b/c you blew up a building and everyone's on edge
@@ -342,77 +353,8 @@ Name - Rep: (starts at 0, ranges from -3 (hated) to 3 (admired)) gain access to 
 		- Access to facilities + Jobs
 	- +3
 		- Access to contractors
-#### CRYPT 3e Downtime
-Which of these can be broken down to things based off a roll?
-
-1. Relax: kick your feet up and enjoy the beach, use your Vice, and roll a d10. If its under your Stress, reduce stress to that amount and gain the difference in XP. If the result is at or over your stress, reduce Stress by 1.
-2. Medical Treatment (heal wounds)
-	1. seek treatment (take 3 times to remove an injury, permanent condition, or curse)
-	2. Recover: gain back hits, remove conditions, etc.
-	3. get Medical care - regain 1 wound. when all wounds are healed, regain max hit points (*anomalous investigations*)
-	4. Seek treatment - take 3x to remove a permanent condition (*anomalous investigations*)
-3. Research: spend Cash to test BRAIN and ask a question about a subject (HMTW)
-	1. (*Throne of Salt*) Research allows you to investigate the various materials you may encounter out in the field: Esoteric tomes, Scientific materials, the mad scribblings of a Manifesto, the entirety of a codebase. Each researchable item will have a Research Score, given after the first spent reading it (this is how many weeks it’ll take to finish), and a set of Milestones (these are important bits of lore, actionable intelligence, or new things you can make; these will be revealed when you reach them). A Research Item may look like: Manual for the Improvement of Advanced Cybernetics (RS:5 ML:2(3,5)). For each week spent Researching a material, make an Intellect check:
-		- On a success: Increment Research Points by 1
-		- On a critical success: Breakthrough, immediately gain Research Points to jump to the next Milestone
-		- On a failure: Do not increment research points, take 1 Stress
-		- On a critical failure: You made a critical error in your earlier work, lose 1 Research Point, take 1d5 Stress
-	2. Research: Delve deep into a special interest. Get so obsessed you forget to eat while you acquire valuable knowledge. Use a librarian, a scholar, or a philosopher.
-	3. Case Joint: Gain information about a potential AO (HMTW)
-4. Train: spend 1C per 1XP to a new profession, specialization or learn an out of profession specialization? (HMTW)
-	1. take a number of times equal to 10 - STAT?
-		1. -1 if part of your Profession?
-		2. +1 for out of profession training?
-	2. (*mothership*) Study: pay cost equal to how long you’ll be studying
-	3. Train: Improve yourself through daily drills and repetition. Pick up a new trick like a dog. A guide, a mentor, or a master is may be necessary
-5. (*Emmy Verte*) Carouse: 
-	1. Contacts are everyone with whom your crew has a relationship with. If you make an effort to improve your relationship, roll a d10 and compare it to your current score. If you roll below, increase the score by 1. If you roll above, you must complete a task before you can change the relationship.
-		- 1-2 Nemesis - Actively creates dangers, traps and terrors for the crew
-		- 3-4 Foe - Prevents the crew from achieving their goals when given the opportunity
-		- 5-6 Stranger - Most Contacts start here
-		- 7-8 Friend - Will aid the crew when possible
-		- 9-0 Ally - Will perform major favors for the crew at cost. If they are a prominent figure in a faction, the crew gains +1 Reputation with them
-	- Carousing: Waste money, gain experience
-	- Learn: Catch a whiff of something juicy—whether it's gossip, secrets, or hard facts. It will prove useful. Think of an agent, a spy, or even a blabbermouth.
-	- make outside connections - gather information or gain useful personal asset for the next mission (*anomalous investigations*)
-	- Explore, find additional points of interest nearby
-	1. (*Emmy Verte*) Network to find canvas for information, hear rumors, or establish connections. Pay Shore Leave costs in free drinks, tips, and bribes
-	2. Carouse (learn new rumors)
-	3. Requisition an asset - test POLCAP, on success gain access to special asset on the next mission. if requesting an anomaly, check with [-] (*anomalous investigations*)
-	4. request information - test POLCAP with [+], if a success you are given any knowledge they have (if they don't, you do not lose POLCAP) (*anomalous investigations*)
-6. Therapy - Spend XP to Restore a broken LINK
-7. Solo Quest: The character pursues a personal goal which would perhaps be too much of a distraction for them to drag the rest of the party along for. The player sets one specific goal which must be approved by the referee, then rolls 2d6:
-	- 1. Success, no injuries, and you also brought home 1d5 Assets!
-	- 2-3. Success, no rewards, no injuries
-	- 4-7. Success, begin next Adventure with -1 Hit
-	- 8-9. Failure, begin next Adventure with -1 Hit and a random condition
-	- 0. Failure, begin next Adventure half HP (rounded down) and a random condition
-	4. Work: do off the books contract work, gain some extra Cash (1d5 C)
-	5. Work: Slog through the trenches of mundanity and find fulfillment in honest labor. Earn your scraps with a contractor, a noble, or a boss.
-	6. Some groups will give jobs to party members
-8. file paperwork - clear 1 unit of paperwork per downtime (*anomalous investigations*) -> transitios to maintain cover/reduce heat in goes solo
-	1. Maintain Cover: work your assigned cover, reduce HEAT
-	- As downtime actions: Scrub personal data or fake your death (2 Actions) both reduce reputation. Both are time intensive tasks but can make you harder to track down or recognize
-	- gain political capital - gain +1 political capital (can only be taken when POLCAP is less than 3) (*anomalous investigations*)
-9. work on a project - personal project (*anomalous investigations*)
-10. Memorialize: celebrate a fallen life, player can recover 1XP per 10C spent? (HMTW)
-	1. Mourn: Commemorate a fallen friend. You couldn't save them, and they deserved better. Call upon a pallbearer, a steward, or an undertaker.
-
-Unlockable: 
-- High Class STAT Bonus activities: Athenaeum, Symposium, Symphony, etc.
-
-13. Invest: Luka Rejec Asset mechanics here
-	1. Invest: Buy yourself into success and friendship. You might not be likable, but you've got the money. Rely on a broker, a financier, or a proprietor.
-7. Stash: Secretly move Cash into your Swiss Bank Account. For "retirement"
-	1. ???: Convert Assets into Cash or Attempt to convert Counterfeit Cash into real money.
-	2. Find a buyer
 
 
-Convert to lifestyle expenses:
-	Live a life of excess! Pay 2 C, gain one of the following conditions, they are cleared when used:
-	    - athenaeum/opera - try again on BRAIN saves
-	    - massage/high class resturant - try again on SPINE saves
-	    - escape room, trampoline park, boat trip, speed dating, gambling, arcade - try again on HEART saves
 ## Bases
 After the first MISSION, Agents gain options to customize and expand their base as part of the 
 
@@ -423,7 +365,7 @@ Upgrades
 - Supply team - Call in a resupply once per mission (1 basic item per agent)
 - Rooms that give [+] on a single roll (Gym for SPINE, Shooting range for HEART?, Library for BRAIN)
 
-Bases
+# Bases
 - require 1 Crateful of Loot (Lootcrate) to upgrade
 - wires pay 2 crates of loot, and offer the ability to source at least 1 Cargo on site
 	- Cargo is as follows:
