@@ -11,16 +11,16 @@ Assign points to your stats. You get 9 Points to start. You can assign up to 5 i
 10. Impossible
 
 Or roll 3 times for a stat line below
-1. 5
-2. 4
-3. 4
-4. 3
-5. 3
-6. 3
+1. 6
+2. 5
+3. 5
+4. 4
+5. 4
+6. 4
 7. 3
-8. 2
-9. 2
-10. 1
+8. 3
+9. 3
+10. 2
 
 # Stress and Vices
 Your Minimum Stress starts at 1. 

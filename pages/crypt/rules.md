@@ -1,5 +1,5 @@
 ## the 0x AWARD nominated RPG is finally available!
-by meats
+by marks
 
 FOR LUDOMECHANICAL MACHINATIONS WITH FRIENDS AND STRANGERS
 
@@ -12,6 +12,8 @@ FOR LUDOMECHANICAL MACHINATIONS WITH FRIENDS AND STRANGERS
 # SYSTEM
 ## Stats
 Roll 1d10 aiming to get your stat or lower. Rolls of 10 always fail. Rolls of 1 always succeed. Gain a Stress to reroll a dice, using the new number
+
+Stats range from 2 (abysmal) to 7 (humanity's best) to 9 (better than human). A 4 is average. 
 
 In combat _Crits Kill_. A headshot. Lucky shot through the window of a helicopter. Hit a grenade on their belt. Cuts both ways. Combat is lethal.
 
@@ -26,7 +28,6 @@ You have 3 **Stats**:
 **BRAIN** - your Mind
 - know things, notice things, willpower
 - using Energy or other Exotic Weapons
-- number of Skills you can learn
 
 **HEART** - your Soul
 - move quickly, be coordinated, think on your feet
@@ -35,7 +36,6 @@ You have 3 **Stats**:
 **SPINE** - your Body
 - hit hard, move heavy things, take drugs, resist physical effects
 - using Big Guns or Melee Weapons
-- number of Inventory slots
 
 ## Skills
 You have **Skills**. Skills are measured from 1 to 10 like stats. Skills come in two types: Professions and Certifications. When a skill is applicable, you can use your skill instead of your stat for the test. Skills take time to train and start at the relevant stat plus 1. So a character training to become a Soldier with a SPINE of 3 will earn Soldier 4. Skill training costs Experience and a Downtime action.
