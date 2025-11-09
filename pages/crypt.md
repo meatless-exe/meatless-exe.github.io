@@ -7,3 +7,5 @@ tags: crypt, rules, elfgame
 ## [DA RULEZ](./crypt/rules.md)
 
 ## [character creation](./crypt/character.md)
+
+## [After Action Reports](./crypt/downtime.md)

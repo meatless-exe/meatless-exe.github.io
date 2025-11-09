@@ -1,3 +1,4 @@
+# 3e times the charm
 ## the 0x AWARD nominated RPG is finally available!
 by marks
 
@@ -174,19 +175,6 @@ You have 5 slots of inventory
 ## CREDITS
 Based off of the games: Red Ink Adventures, Just Halberds, The Landshut Rules, World of Dungeons, GRIMLITE, Goblin Laws of Gaming, the SEACAT, 2400, Mothership, One Page Rules, the Big Wet, FIST, 
 
-## Items
-Pistol - 1 DMG, 1 slot, pistol ammo
-SMG - 2 DMG, 1 slot, pistol ammo, [-] to reload (reroll if result is 1-7 for ammo purposes)
-Assault Rifle - 2 DMG, 2 slots, rifle ammo
-Shotgun - 2 DMG, 2 slots, shotgun ammo, can hit two adjacent targets for 1 DMG each
-LMG - 2 DMG, 2 slots, rifle ammo, [+] to reload (reroll if result is 8-10 for ammo purposes)
-
-Medical Kit - Restore 1 HP while resting. 3 Uses
-Stimpak - Experimental. Restore 1 Hits at any time. Take 1 Stress
-Trauma Kit - Stabilize and revive someone after they go down. Gotta still be alive
-
-Fulton Kit
-
 ### Ref Stuff:
 #### Mission Information & Redaction
 On Missions with a planning element, the adventure will be provided, but will be redacted, typically around 50%. This includes guard rotations, maps, encounter tables, etc. You may remove secret areas or makeshift passages that would not be listed on a typical map. Unless they have an inside source that would know that.
@@ -224,75 +212,8 @@ Tug of war style chases, need to beat opponent's Successes by 3 (5?). Gain a suc
 - Critical successes cause bonuses
 Critical failures on gambits don't count unless all dice are contested. Possible to crash and still succeed
 
-### Job Payment:
-- Quick Job (solo jobs and single session bonus gigs) = 1d5 x $1k per person
-- Standard Operation = 1d10 x $10k per person
-- Critical Mission (failure is not an option) = 5d10 x $10k per person
-
 ### Paperwork
-Paperwork (anomalous investigations)
-- generate paperwork for the following:
-	- mission failure
-	- IRIS exposed or civilian learned of operation
-	- significant collateral damage (director's discretion)
-	- special asset lost or destroyed (two if fell into hostile control)
-	- agent lost
-	- *anomaly was created/released through actions of an agent*
-	- IRIS was implicated as a result of mission
-	- anything else at Director's discretion
-- Mission operations take precedence, paperwork is shared by the unit as a whole
-- Units with outstanding paperwork have [-] on POLCAP checks
-- 20+ Paperwork results in -1 POLCAP for each 2 downtimes (1 for extra downtime) where paperwork is not processed, until it drops below this number
-
-POLCAP checks: (anomalous investigations)
-- used instead of money, max value of 10
-- checks
-	- crit success: request approved, do not reduce POLCAP
-	- success: request approved, reduce POLCAP by roll result
-	- failure: request denied, do not reduce POLCAP
-	- crit fail: request denied, reduce POLCAP by roll result
-- modifiers
-	- mission success: +1
-	- minimal collataral damage and no loss of agents or assets: +1
-	- mission failure: -1
-	- loss of agents or major assets: -1
-	- collateral damage, negligence or insubordination: -1
-- POLCAP can go negative, no checks may be attempted until POLCAP is positive again
-- if POLCAP ever reaches -10, your unit is re-organized and all members are sent to another Unit or job (typically light desk work). everyone makes new characters to fill your replacement unit
-	- unless you decide to go ROGUE
-
-### Downtime
-1. IRIS
-	1. **File Paperwork** - Mark off 1 unit of PAPERWORK per downtime (*anomalous investigations*)
-	2. **Request** - Test PAPERWORK (roll under 10 - PAPERWORK) to request Information [+] or an Asset (flat test) for the next mission. On a success they give you what they have.
-	3. **Therapy** - Take 4 times and spend XP to Restore a Broken BOND
-	4. **Train** - Spend $ and XP to learn or improve a Profession or Specialization
-	5. **Funeral** - Organize the death of a comrade in arms. Can't be taken for a character you had control of. Player of dead character can recover 1XP per $10k spent to spend on a new character
-2. Personal
-	1. **Develop** - work on a personal project. Standard project takes 4 Actions ton finish
-	2. **Seek Treatment** - Heal wounds or remove an injury
-	3. **Relax** - Use your Vice and remove Stress. Roll a d10. 
-		1. Under Stress: Reduce stress to result, gain the difference in XP
-		2. Equal or Over Stress: Reduce Stress by 1, gain 1 XP
-	4. **Research** - BRAIN check to gather information about a person, place, thing, faction, or idea. 
-		1. Success: ask 3 questions about it
-		2. Failure: ask 1 question
-	5. **Solo** - Pursue a personal mission (those given by a person or faction may come with base pay). Set one specific goal which must be approved by the Ref, then roll 3d10 in order:
-		1. Objective
-			- 1. Critical Success (roll Rewards with [+])
-			- 2-5. Success
-			- 6-9. Failure
-			- 10. Critical Failure (roll Consequences with [-])
-		2. Rewards
-			- 1. 2d5 x $1k
-			- 2-5. 1d5 x $1k
-			- 6-9. No bonus rewards
-			- 10. -1d5 x $1k
-		3. Consequences
-			- 1. No injuries, and you also brought home some extra goodies!
-			- 2-5. No rewards, no injuries
-			- 6-9. Begin next Adventure with -1 Hit
-			- 0. Begin next Adventure -1 Hit and 1d5 stress OR a random injury
+Mission operations take precedence, paperwork is shared by the unit as a whole
 
 # Other things to figure out:
 Field Reqs: (anomalous investigations)
@@ -304,55 +225,17 @@ Field Reqs: (anomalous investigations)
 Clearance Level (anomalous investigations)
 - attempt to access info up to current clearance level
 - levels:
-	1. minimum clearance. knowledge of general realities and bureau operations
-	2. standard clearance for units and their support staff
-	3. clearance for unit operation heads and mid-level support staff
-	4. high-level clearance for bureau execs and high-level support staff
+	1. Purple - minimum clearance. knowledge of general realities and bureau operations
+	2. Blue - standard clearance for units and their support staff
+	3. Green - clearance for unit operation heads and mid-level support staff (Handlers)
+	4. Yellow - high-level clearance for IRIS execs and high-level support staff
 		- level of institutional knowledge of Unit Ops heads members who have survived for 10+ years
-	5. director only, and those at the discretion of the director
+	5. Red - director only, and those at the discretion of the director
 - attempts to circumvent clearance may result in:
-	1. loss of POLCAP
+	1. additional Paperwork
 	2. losing clearance levels
 	3. docked pay
 	4. undesirable assignments
-
-
-
-#### Factions ([Papers and Pencils](https://www.paperspencils.com/proceduralism-on-a-red-world-alone/))
-##### Each adventure should begin with rolling a _consequence_, the physical outcome of a specific action. maybe someone's out for revenge, or there's increased security b/c you blew up a building and everyone's on edge
-Also: World Events: determine what's happened in the time they've been in downtime
-1. Factionogenesis - a new faction emerges
-2. Party's tools or reputation are threatened
-3. party's alliances or experts are threatened
-4. public discovery made (ie something dug up, new trend, new technological advancement, new product release)
-5. one additional faction action this turn
-6. sub-faction action (smaller groups get a chance to act)
-7. major players on the move
-8. opposed faction receives major boon (random enemy faction, or deadlocked faction, gets a boon to allow them to pursue their goals. like a missile from an unknown distributor)
-9. major figure exits public life (death, exile, imprisonment; could be enemy, ally, etc.)
-10. natural disaster (immediate or worst time during adventure)
-
-Faction Events:
-- Each downtime block: 2 players (or 3 if a 5 is rolled above) get a chance to roll a d10, to determine which of the 10 factions progresses their track
-- Bonus Downtime: Roll 2x
-
-Factions:
-Name - Rep: (starts at 0, ranges from -3 (hated) to 3 (admired)) gain access to items/contractors/facilities at levels 1+
-- Notes:
-	- 
-- Resources (1-2 to start):
-	- 
-- Goals (2-3):
-	- Sample Goal - 0/X (X = 2-5 progress marker, roll 1d10 subtracting -1 for relevant resources. on a 2-5 mark 1 progress; on a 1 mark 2 progress)
-- Rewards Ideas:
-	- -3
-		- Assassins sent 
-	- -1
-		- Refuse to do business
-	- +1
-		- Access to facilities + Jobs
-	- +3
-		- Access to contractors
 
 
 ## Bases
@@ -367,15 +250,6 @@ Upgrades
 
 # Bases
 - require 1 Crateful of Loot (Lootcrate) to upgrade
-- wires pay 2 crates of loot, and offer the ability to source at least 1 Cargo on site
-	- Cargo is as follows:
-		1. Anomalous Containment Unit (rare or special item) - can't sell
-		2. Construction Crate (materials for building) - buy or sell for 1 LC
-		3. Fuel Tank (refuels any 1 vehicle. upkeep: roll 1d5 for every vehicle, on a 1 vehicle runs out of fuel) - buy for 1, can't sell
-		4. Medical Crate (allows for rest in wire or contains 1d6 random medical supplies and 1d6 painkillers (+1 Hit, consumable)) - buy or sell for 1
-		5. Ordanance Crate (contains ammo and 1d6 weapons and armor) - buy or sell for 1
-		6. Heavy Ordanance Crate (ammo restock for one vehicle, 1 random heavy weapon and 1d6 frag grenades) - buy or sell for 1
-		7. Supply Crate (during wire allows all mercs to restock, otheriwse contains 1d6 common or standard issue items. required to sustain base, roll 1d5 for each barracks at base, on a 1 consume a supply crate or run dangerously low on resource. if happens twice, base is lost) - buy for 1 cannot sell
 - 1 Lootcrate = 25C
 - Upgrades:
 	- Vehicle Pad, store 1 vehicle
@@ -405,15 +279,3 @@ SEWER JUNCTION: Access to the city's underbelly and waste streams (potential res
 OLD FACTORY: Offers scraps and salvageable equipment during downtime. Unsuited for living, risks low morale and extended recovery time. 
 DESERTED SHOPPING MALL: Variety of pre-existing facilities (restaurants, stores, etc.) for diverse uses. Risks upgrades taking longer time to implement. 
 AIRSHIP DOCKING BAY: Quick access to vertical routes, potentially keeping an air vehicle. Exposed to the elements, demanding regular maintenance.
-
-Side Ops
-- Awards 1 or 2 Cargo/RQ (used to build/upgrade base). Done outside of Operations or Missions
-- Basic (1 RQ)
-	- Eliminate a specific LT or a squad
-	- Locate a piece of Intel (briefcase, disk, etc.)
-	- Gather intel on a VIP, observe and report
-- Complicated (2 RQ)
-	- Exfiltrate someone or something important
-	- Eliminate a commander or large group of 5-10 enemies
-	- Hold a zone against waves of enemies
-	- Locate this thing, then take it to 2-3 other locations
