@@ -11,18 +11,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "OASIS 95" # runic vaporware # three hyper runes
+title: "poolside plus" # runic vaporware # three hyper runes
 author: "meatless"
 description: "a blog" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://meatlessdotexe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-
+  - jekyll-archives
 rss: rss
 
 kramdown:

@@ -4,9 +4,9 @@
 - about:
   text: about
   href: /about
-- crypt:
+- targe:
   text: archive
   href: /archive
-- crypt:
-  text: crypt
-  href: /pages/crypt
+- targe:
+  text: targe
+  href: /pages/targe
