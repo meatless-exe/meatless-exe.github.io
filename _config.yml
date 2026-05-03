@@ -21,7 +21,6 @@ url: "https://meatlessdotexe.github.io/" # the base hostname & protocol for your
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-archives
 rss: rss
 
 kramdown:

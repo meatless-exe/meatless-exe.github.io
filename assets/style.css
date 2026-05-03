@@ -3,7 +3,7 @@ body {
 }
 
 /* =============================================================================
-   JEKYLL BEAR THEME - PINE FOREST AESTHETIC
+   JEKYLL BEAR THEME - MODIFICADO
    ============================================================================= */
 /* =============================================================================
    FONTS & IMPORTS
@@ -212,20 +212,24 @@ nav {
 	}
 
 	ul {
-				padding: .5em;
-				list-style: none;
-				text-align: left;
-				margin-left: 1em;
+		padding: .5em;
+		list-style: none;
+		text-align: left;
+		margin-left: 1em;
 
-				li {
-					white-space: nowrap;
-					color: #222;
-					display: inline-block;
-					float: none;
-				}
+		li {
+			white-space: nowrap;
+			color: #222;
+			display: inline-block;
+				float: none;
+		}
 
 		.current {
-			text-decoration: underline var(--text-color);
+			a {
+				color: var(--link-color);
+				border-bottom: 1px solid var(--text-color);
+				line-height: 1.5em;
+			}
 		}
 	}
 }
@@ -243,7 +247,14 @@ main {
 }
 
 #content {
-	margin-top: var(--spacing-md)
+	margin-top: var(--spacing-lg);
+
+	border: 1px solid var(--border-color);
+	padding: 30px;
+
+	h1 {
+		margin-top: 0;
+	}
 }
 
 /* =============================================================================

@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /pages/targe/
 title: TARGE
 tags: targe, rules, elfgame
 ---

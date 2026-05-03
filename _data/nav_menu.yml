@@ -1,12 +1,13 @@
+# Need to add href here, and permalink tag in frontmatter on page
 - home: 
   text: home
   href: /
 - about:
   text: about
-  href: /about
-- targe:
+  href: /about/
+- archive:
   text: archive
-  href: /archive
+  href: /archive/
 - targe:
   text: targe
-  href: /pages/targe
+  href: /pages/targe/
